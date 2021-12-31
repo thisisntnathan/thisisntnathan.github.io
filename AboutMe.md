@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Elements
+title: About Me
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+<!-- Markdownlint-disable-file -->
 
 <!-- Main -->
 <div id="main" class="alt">
@@ -12,8 +13,92 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
+
+<!-- Timeline Section -->
+<!-- Stolen from Agency Theme for Jekyll -->
+<!-- 
+<section id="about">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2 class="section-heading">About</h2>
+				<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+			</div>
+		</div> 
+		<div class="row">
+			<div class="col-lg-12">
+				<ul class="timeline">
+					<li>
+						<div class="timeline-image">
+							<img class="img-circle img-responsive" src="/assets/images/nyuad.jpg" alt="">
+						</div>
+						<div class="timeline-panel">
+							<div class="timeline-heading">
+								<h4>1995</h4>
+								<h4 class="subheading">Humble Beginnings</h4>
+							</div>
+							<div class="timeline-body">
+								<p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+							</div>
+						</div>
+					</li>
+					<li class="timeline-inverted">
+						<div class="timeline-image">
+							<img class="img-circle img-responsive" src="/assets/images/nyuad.jpg" alt="">
+						</div>
+						<div class="timeline-panel">
+							<div class="timeline-heading">
+								<h4>2012-2014</h4>
+								<h4 class="subheading">UWC-USA</h4>
+							</div>
+							<div class="timeline-body">
+								<p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="timeline-image">
+							<img class="img-circle img-responsive" src="/assets/images/nyuad.jpg" alt="">
+						</div>
+						<div class="timeline-panel">
+							<div class="timeline-heading">
+								<h4>2014-2018</h4>
+								<h4 class="subheading">The Abu Dhabi Years</h4>
+							</div>
+							<div class="timeline-body">
+								<p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+							</div>
+						</div>
+					</li>
+					<li class="timeline-inverted">
+						<div class="timeline-image">
+							<img class="img-circle img-responsive" src="/assets/images/nyuad.jpg" alt="">
+						</div>
+						<div class="timeline-panel">
+							<div class="timeline-heading">
+								<h4>2018-present</h4>
+								<h4 class="subheading">Cornell</h4>
+							</div>
+							<div class="timeline-body">
+								<p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+							</div>
+						</div>
+					</li>
+					<li class="timeline-inverted">
+						<div class="timeline-image">
+							<h4>Be Part
+								<br>Of Our
+								<br>Story!</h4>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section> -->
+
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
