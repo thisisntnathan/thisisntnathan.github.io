@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
     <section>
         <a href="https://thisisntnathan.github.io/dftCourse/introduction.html" target="_blank" class="image">
-            <img src="{% link assets/images/dft.jpeg %}" alt="" data-position="center center" />
+            <img src="{% link assets/images/graph.jpg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -33,13 +33,13 @@ nav-menu: true
                 <p> A gentle introduction to computational chemistry and density functional theory <br> designed for advanced undergraduates and beginning graduate student.
                 </p>
                 <ul class="actions">
-                    <li><a href="https://thisisntnathan.github.io/dftCourse/introduction.html" target="_blank" class="button">Take a look</a></li>
+                    <li><a href="https://thisisntnathan.github.io/dftCourse/introduction.html" target="_blank" class="button next">Take a look</a></li>
                 </ul>
             </div>
         </div>
     </section>
     <section>
-        <a href="https://www.nature.com/articles/s41570-020-00238-1" target="_blank" class="image">
+        <a href="" target="_blank" class="image">
             <img src="{% link assets/images/chemical-kinetics.jpg %}" alt="" data-position="top center" />
         </a>
         <div class="content">
@@ -50,7 +50,7 @@ nav-menu: true
                 <p>(Designed for Cornell's CHEM 6650 - Advanced Physical Organic Chemistry)
                 </p>
                 <ul class="actions">
-                    <li><a href="https://www.nature.com/articles/s41570-020-00238-1" target="_blank" class="button">Coming Soon</a></li>
+                    <li><a href="" target="_blank" class="button">Coming Soon</a></li>
                 </ul>
             </div>
         </div>
