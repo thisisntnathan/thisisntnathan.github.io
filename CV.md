@@ -2,22 +2,20 @@
 layout: post
 title: Curriculum vitæ
 description:
-image: assets/images/pic11.jpg
+image: assets/images/baker.jpg
 nav-menu: true
 ---
 
-<!-- <center>
-    <h2>Education</h2>
-</center> -->
-
-## Education
+# Education
 
 ### Cornell University, Ithaca, NY, USA
 
 Doctor of Philosophy in Chemistry (Candidate)  
 Master of Science (2020)  
 Advisor: Prof. David B. Collum  
-Thesis: Structure and reactivity of organoalkali enolate aggreates  
+Thesis: Structure and reactivity of organoalkali enolate aggregates  
+
+----
 
 ### New York University Abu Dhabi, Abu Dhabi, AD, UAE
 
@@ -26,13 +24,15 @@ Advisors: Prof. Wael Rabeh and Prof. Panče Naumov
 Thesis: Conserved loops mediate the active site microenvironment and determine the color of bioluminescence in beetle luciferases  
 Minor: Urban Studies  
 
+----
+
 ### UWC-USA, Montezuma, NM, USA
 
 International Baccalaureate Diploma Programme (2014)
 
-<center>
-    <h2>Research</h2>
-</center>
+<br />
+
+# Research
 
 ### The Collum Group
 
@@ -40,10 +40,14 @@ Graduate Research Assistant | 2018 - present
 **Structure and mechanism of the *N*-acyl Oppolzer sultam enolates.**  
 **
 
+----
+
 ### The Rabeh Lab
 
 Undergraduate Researcher | 2016 - 2018  
 **Beetle luciferases with naturally red- and blue-shifted emission.** The mechanism of color tuning in bioluminescence remains one of the longest standing questions in the field. In this mutagenesis study, we examine the luciferases of two far-emitting bioluminescent insects (*Phrixothrix hirtus* and *Amydetes vivianii*) characterizing their structures, kinetics, thermostability, and substrate affinities to reveal the effect of their subtle differences on the emission colour.
+
+----
 
 ### Naumov Smart Materials Lab
 
@@ -52,28 +56,25 @@ Undergraduate Researcher | 2016 - 2018
 
 **pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.** Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH- and humidity-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems.
 
+----
 
 ### The Rivera Lab for Supramolecular Chemistry
 
 NSF-REU Program | Summer 2017  
-**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly.** 
-Building off the Rivera group’s previous work with guanosine derived supramolecular complexes, we synthesized phosphorylated guanosine derivatives which form host-like microglobluar assemblies at high temperatures.  We showed that dephosphorylation by a common alkaline phosphatase induces formation of the supramolecular assemblies.  The project provided proof of concept for the enzyme-instructed formation of nonpolymeric supramolecular assemblies and laid the groundwork for creating artificial organelles *in vivo*.  
+**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly.** Building off the Rivera group’s previous work with guanosine derived supramolecular complexes, we synthesized phosphorylated guanosine derivatives which form host-like microglobluar assemblies at high temperatures.  We showed that dephosphorylation by a common alkaline phosphatase induces formation of the supramolecular assemblies.  The project provided proof of concept for the enzyme-instructed formation of nonpolymeric supramolecular assemblies and laid the groundwork for creating artificial organelles *in vivo*.  
 
 <br />
 
-<center>
-    <h2>Teaching</h2>
-</center>
+# Teaching
 
 - **CHEM 6650** \| Advanced Physical Organic Chemistry - Instructor  
 - **CHEM 2510** \| Introduction to Experimental Organic Chemistry - Teaching Assistant  
 - **CHEM 2070** \| General Chemistry I - Teaching Assistant  
 
-<br>
+<br />
+<br />
 
-<center>
-    <h2>Honors and Awards</h2>
-</center>
+# Honors and Awards
 
 - **ACS Graduate Teaching Award** \| 2020  
 Teaching award given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
