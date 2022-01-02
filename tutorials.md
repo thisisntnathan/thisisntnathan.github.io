@@ -2,7 +2,7 @@
 title: Teaching
 layout: landing
 description: 
-image: assets/images/bookstack.jpg
+image: assets/images/desk.jpg
 nav-menu: true
 ---
 
