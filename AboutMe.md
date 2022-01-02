@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/squareRight.jpg
+image: assets/images/meSquaredRight.jpg
 nav-menu: true
 ---
 <!-- Markdownlint-disable-file -->
