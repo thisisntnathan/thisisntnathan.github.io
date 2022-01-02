@@ -23,11 +23,10 @@ tiles-count: 6
 socials:
   # Envelope: mailto:nathanlui95@gmail.com    
   GitHub: https://github.com/thisisntnathan
+  Instagram: https://www.instagram.com/this.isnt.nathan/
   Google: https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao
-  Instagram:
   LinkedIn: https://www.linkedin.com/in/nathanmlui
   orcid: https://orcid.org/0000-0003-4950-0914
-  Twitter: 
 
 # build settings
 markdown: kramdown
