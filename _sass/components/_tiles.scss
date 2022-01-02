@@ -120,6 +120,7 @@
 			}
 
 			&:nth-child(6n - 3) {
+				flex: 1 auto;	/// Stretch this tile all the way across if its the last
 				&:before {
 					background-color: _palette(accent3);
 				}
@@ -132,6 +133,7 @@
 			}
 
 			&:nth-child(6n - 1) {
+				flex: 1 auto;	/// Stretch this tile all the way across if its the last
 				&:before {
 					background-color: _palette(accent5);
 				}
