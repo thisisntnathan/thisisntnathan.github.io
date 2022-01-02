@@ -18,18 +18,24 @@
 
       <!-- One -->
       <section id="one">
-	<div class="inner">
+        <div class="inner">
           {% for post in site.posts %}
-	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1>{{ post.title }}</h1>
-	  </header>
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
-	  <p>{{ post.content }}</p>
-	  {% endif %}
+            {% if post.title != 404 %}
+            <header class="major">
+              <h1>{{ post.title }}</h1>
+            </header>
+            {% if post.image %}
+              <span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
+            {% endif %}
+            <!-- This was annoying, to use, if you decide to use post dates in the future, either reenable here or add as subheading in post (that's all this does) for more format control.
+            {% if post.date %}
+              <p>{{ post.date }}</p>
+            {% endif %} 
+            -->
+            <p>{{ post.content }}</p>
+            {% endif %}
           {% endfor %}
-	</div>
+        </div>
       </section>
 
     </div>
