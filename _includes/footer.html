@@ -3,11 +3,6 @@
 	<div class="inner">
 	<section>
 		<ul class="icons">
-			<li>
-				<a class='icon' href="mailto:nathanlui95@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email me!">
-					<i class="fa fa-envelope fa-2x"></i>
-				</a>
-			</li>
 			{% for key_value in site.socials %}
 				{% if key_value[1] %}
 					<li>
@@ -17,6 +12,11 @@
 					</li>
 				{% endif %}
 			{% endfor %}
+			<li>
+				<a class='icon' href="mailto:nathanlui95@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email me!">
+					<i class="fa fa-envelope fa-2x"></i>
+				</a>
+			</li>
 		</ul>
 		<br />
 		<ul class="copyright">
