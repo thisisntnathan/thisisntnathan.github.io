@@ -104,7 +104,7 @@ Grant to complete research at the NSF-REU site at the University of Puerto Rico 
         <ul>
             <li><i class="fab fa-python"></i> Python</li>
             <li><i class="fab fa-java"></i> Java</li>
-            <li><i class="fas fa-terminal"></i> <code>bash/sh</code></li>
+            <li><i class="fas fa-terminal"></i> <code>bash</code></li>
             <li><i class="fas fa-code"></i> C++</li>
             <!-- <li><i class="fab fa-linux"></i> Linux</li> -->
             <li><i class="fas fa-code-branch"></i> Version control with <i class="fab fa-git-square"></i></li>
