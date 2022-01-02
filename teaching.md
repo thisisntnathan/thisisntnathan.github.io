@@ -3,6 +3,7 @@ title: Teaching
 layout: landing
 description: 
 image: assets/images/desk.jpg
+home-sort-order: 5
 nav-menu: true
 ---
 

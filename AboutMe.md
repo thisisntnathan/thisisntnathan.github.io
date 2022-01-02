@@ -3,6 +3,7 @@ layout: page
 title: About Me
 image: assets/images/meSquaredRight.jpg
 nav-menu: true
+home-sort-order: 1
 ---
 <!-- Markdownlint-disable-file -->
 

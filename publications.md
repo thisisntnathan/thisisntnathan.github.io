@@ -3,6 +3,7 @@ title: Publications
 layout: landing
 description: 
 image: assets/images/scrolls.jpg
+home-sort-order: 4
 nav-menu: true
 ---
 

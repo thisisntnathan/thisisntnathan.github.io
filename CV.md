@@ -3,6 +3,7 @@ layout: post
 title: Curriculum vitæ
 description:
 image: assets/images/baker.jpg
+home-sort-order: 2
 nav-menu: true
 ---
 
