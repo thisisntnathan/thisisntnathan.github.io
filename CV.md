@@ -84,3 +84,38 @@ Travel grant awarded to present honors thesis results at the 255th National Meet
 Travel grant to present summer research results at the 1st ACS Asia Pacific International Chapters Conference in Jeju, South Korea; awarded for 2nd place presentation at the PR-CLIMB research symposium.  
 - **NSF–REU Award** \| 2017  
 Grant to complete research at the NSF-REU site at the University of Puerto Rico - Río Piedras in San Juan, including housing, board, ancillary travel, and personal expenses.
+
+<br />
+<br />
+
+# Language proficiency
+
+<div class="row">
+    <div class="6u 12u$(small)">
+        <!-- <h4>Unordered</h4> -->
+        <ul>
+            <li>&#127468;&#127463; English (Native)</li>
+            <li>&#127469;&#127472; Cantonese chinese (Near-native)</li>
+            <li>&#127464;&#127477; French (Intermediate)</li>
+            <li>&#127464;&#127475; Mandarin chinese (Elementary)</li>
+        </ul>
+    </div>
+    <div class="6u$ 12u$(small)">
+        <ul>
+            <li><i class="fab fa-python"></i> Python</li>
+            <li><i class="fab fa-java"></i> Java</li>
+            <li><i class="fas fa-terminal"></i> <code>bash/sh</code></li>
+            <li><i class="fas fa-code"></i> C++</li>
+            <!-- <li><i class="fab fa-linux"></i> Linux</li> -->
+            <li><i class="fas fa-code-branch"></i> Version control with <i class="fab fa-git-square"></i></li>
+            <li>$\LaTeX$</li>
+        </ul>
+    </div>
+</div>
+
+<br />
+<br />
+
+# Publications and presentations
+
+Take a look at the publications page for a full list of my [academic publications](http://localhost:4000/publications.html) and [conference talks](http://localhost:4000/publications.html#talks).
