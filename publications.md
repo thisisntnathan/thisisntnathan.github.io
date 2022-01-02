@@ -10,12 +10,12 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<section id="papers">
     <div class="inner">
         <header class="major">
             <h2>Papers</h2>
         </header>
-        My peer-reviewed academic papers.  For citations see <a href='https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao' target="_blank">my Google Scholar page</a>.
+        Peer-reviewed academic papers.  For citations see <a href='https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao' target="_blank">my Google Scholar page</a>.
     </div>
 </section>
 
@@ -110,7 +110,7 @@ nav-menu: true
             <h2>Presentations</h2>
         </header>
         <ul>
-            <li><b>Graduate and Postdoc Symposium</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar talk.</li>
+            <li><b>Graduate and Postdoc Symposium</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar talk on .</li>
             <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes,France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight talk on 29 May 2018.</li>
             <li><b>255th National Meeting of the American Chemical Society</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix presentation on 19 Mar 2018.</li>
             <li><b>Environmental & Materials Science Symposium</b> | Abu Dhabi, UAE<br>“Bioluminescence in Nanotechnology: Characterization of two novel luciferases for applications in emerging nanobiotechnologies.” <br>Poster presentation on 6 Dec 2017.</li>
