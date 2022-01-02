@@ -4,7 +4,11 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/skel';
-@import 'font-awesome.min.css';
+@import 'scss/fontawesome.scss';
+@import 'scss/brands.scss';
+// @import 'scss/regular.scss';
+@import 'scss/solid.scss';
+
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
 
 /*

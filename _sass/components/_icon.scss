@@ -33,6 +33,7 @@
 		&.alt {
 			&:before {
 				@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out');
+				text-decoration: none;
 			}
 
 			&:hover {
@@ -44,6 +45,7 @@
 			&:active {
 				&:before {
 					background-color: desaturate(darken(_palette(accent1), 15), 5);
+					text-decoration: none;
 				}
 			}
 		}

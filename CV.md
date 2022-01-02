@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My CV
-description: Lorem ipsum dolor est
+title: Curriculum vitæ
+description:
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
@@ -29,32 +29,28 @@ Minor: Urban Studies
 ### UWC-USA, Montezuma, NM, USA
 
 International Baccalaureate Diploma Programme (2014)
-<br />
-<br />
 
-<center> 
+<center>
     <h2>Research</h2>
 </center>
 
 ### The Collum Group
 
 Graduate Research Assistant | 2018 - present  
-**Structural studies of enolates of the N-acyl Oppolzer sultams.**  
+**Structure and mechanism of the *N*-acyl Oppolzer sultam enolates.**  
+**
 
 ### The Rabeh Lab
 
 Undergraduate Researcher | 2016 - 2018  
-**Beetle luciferases with naturally red- and blue-shifted emission.**  
-The mechanism of color tuning in bioluminescence remains one of the longest standing questions in the field. In this mutagenesis study, we examine the luciferases of two far-emitting bioluminescent insects (*Phrixothrix hirtus* and *Amydetes vivianii*) characterizing their structures, kinetics, thermostability, and substrate affinities to reveal the effect of their subtle differences on the emission colour.
+**Beetle luciferases with naturally red- and blue-shifted emission.** The mechanism of color tuning in bioluminescence remains one of the longest standing questions in the field. In this mutagenesis study, we examine the luciferases of two far-emitting bioluminescent insects (*Phrixothrix hirtus* and *Amydetes vivianii*) characterizing their structures, kinetics, thermostability, and substrate affinities to reveal the effect of their subtle differences on the emission colour.
 
-### Naumov Materals Research Group
+### Naumov Smart Materials Lab
 
 Undergraduate Researcher | 2016 - 2018  
-**Thermochemiluminescent Peroxide Crystals.**  
-Chemiluminescence is a process of energy transduction which transforms chemical energy into light that is commonly reported in solution. We studied an occurance of thermally induced chemiluminescence in a macroscopic crystal of lophine hydroperoxide, developing various low-light and variable-temperature analytical methods, elucidating the mechanism of hydroperoxide decomposition, and demonstrating the first instance of thermochemiluminescence in the solid state.
+**Thermochemiluminescent Peroxide Crystals.** Chemiluminescence is a process of energy transduction which transforms chemical energy into light that is commonly reported in solution. We studied an occurance of thermally induced chemiluminescence in a macroscopic crystal of lophine hydroperoxide, developing various low-light and variable-temperature analytical methods, elucidating the mechanism of hydroperoxide decomposition, and demonstrating the first instance of thermochemiluminescence in the solid state.
 
-**pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.**  
-Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH- and humidity-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems.
+**pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.** Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH- and humidity-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems.
 
 
 ### The Rivera Lab for Supramolecular Chemistry

@@ -6,7 +6,7 @@ description: I'm an organic chemist by training with a passion for stuff
 # baseurl: # the subpath of your site, e.g. /blog
 # url: # the base hostname & protocol for your site
 author: Nathan M. Lui
-street_address: Baker Lab, <br>Cornell University
+street_address: Baker Lab, Cornell University
 city: Ithaca
 state: NY
 zip_code: 14850
@@ -21,14 +21,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
+  # Envelope: mailto:nathanlui95@gmail.com    
   GitHub: https://github.com/thisisntnathan
-  GitLab:
   Google: https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao
   Instagram:
   LinkedIn: https://www.linkedin.com/in/nathanmlui
-  Twitter: 
-  Facebook:
   orcid: https://orcid.org/0000-0003-4950-0914
+  Twitter: 
 
 # build settings
 markdown: kramdown
