@@ -1,3 +1,11 @@
+# Stock images licensed by Unsplash
+
+https://unsplash.com/license
+
+# Website (c) 2021 by Nathan Lui under Creative Commons Attribution 3.0
+
+# Original design ("Forty" by HTML5 UP) and Jekyll integration (by Andrew Banchich) licensed under Creative Commons Attribution 3.0
+
 Creative Commons Attribution 3.0 Unported
 http://creativecommons.org/licenses/by/3.0/
 
