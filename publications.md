@@ -2,7 +2,7 @@
 title: Publications
 layout: landing
 description: 
-image: assets/images/pic07.jpg
+image: assets/images/scrolls.jpg
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 <section>
         <a href="generic.html" target="_blank" class="image">
-            <img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+            <img src="{% link assets/images/stacks.jpg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -32,7 +32,7 @@ nav-menu: true
                 </header>
                 <p>Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, <b>Nathan M. Lui</b>, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet, & Panče Naumov  </p>
                 <ul class="actions">
-                    <li><a href="generic.html" target="_blank" class="button"> Currently in review at <em>Chemical Reviews</em> </a></li>
+                    <li><a href="" target="_blank" class="button"> Currently in review at <em>Chemical Reviews</em> </a></li>
                 </ul>
             </div>
         </div>
