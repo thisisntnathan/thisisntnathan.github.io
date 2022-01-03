@@ -4,6 +4,7 @@ title: <a href='/readinglist.html'>My Reading List</a>
 show_tile: false
 permalink: /readinglist.html
 ---
+<!-- markdownlint-disable-file MD026 -->
 
 ## My current book:
 
