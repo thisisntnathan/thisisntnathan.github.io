@@ -1,13 +1,37 @@
-# Stock images licensed by Unsplash
-
-https://unsplash.com/license
-
 # Website (c) 2021 by Nathan Lui under Creative Commons Attribution 3.0
+
+See full license text below.
+
+# Stock images
+
+Licensed by [Unsplash](https://unsplash.com/license)
+
+# Icons
+
+Document icon by [Hilmy Abiyyu Asad](https://freeicons.io/profile/75801) on [freeicons.io](freeicons.io) licensed under [Creative Commons Attribution 3.0 Unported (H.A.A.)](https://creativecommons.org/licenses/by/3.0/legalcode). See full license text below.
+
+The N icon [licensed](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8) by from [Icons8](https://icons8.com/).  
+
+# Font-Awesome Icons (footer, cv page)
+
+Licensed by [Font Awesome](https://fontawesome.com/) under [free licenses](https://fontawesome.com/license/free)
+
+# Jekyll
+
+[Jekyll](http://jekyllrb.com/) licensed under an [MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE).  
+
+Copyright (c) 2008-present Tom Preston-Werner and Jekyll contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Original design ("Forty" by HTML5 UP) and Jekyll integration (by Andrew Banchich) licensed under Creative Commons Attribution 3.0
 
 Creative Commons Attribution 3.0 Unported
-http://creativecommons.org/licenses/by/3.0/
+[http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
 
 License
 
