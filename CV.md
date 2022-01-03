@@ -28,17 +28,17 @@ Thesis: Conserved loops mediate the active site microenvironment and determine t
 <!-- Specialization: Biochemistry   -->
 Minor: Urban Studies  
 
-----
+<!-- ----
 
 ### UWC-USA, Montezuma, NM, USA
 
-International Baccalaureate Diploma Programme (2014)
+International Baccalaureate Diploma Programme (2014) -->
 
 <br />
 
 # [Research](/research.html)
 
-Take a look at the [research page](/research.html) for more!
+Take a look at my [research page](/research.html) for more!
 
 ### The Collum Group
 
