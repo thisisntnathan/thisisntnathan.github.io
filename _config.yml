@@ -2,13 +2,13 @@
 title: Nathan
 subtitle: M. Lui
 email: nathanlui95@gmail.com
-description: I'm an organic chemist by training with a passion for stuff
+description: Physical organic chemist by day, <br>flâneur, photographer, and future masterchef by night
 # baseurl: # the subpath of your site, e.g. /blog
 # url: # the base hostname & protocol for your site
 author: Nathan M. Lui
 street_address: Baker Lab, Cornell University
 city: Ithaca
-state: NY
+state: New York
 zip_code: 14850
 country: United States of America
 
@@ -24,6 +24,7 @@ socials:
   # Envelope: mailto:nathanlui95@gmail.com    
   GitHub: https://github.com/thisisntnathan
   Instagram: https://www.instagram.com/this.isnt.nathan/
+  flickr: https://www.flickr.com/photos/104282893@N02/
   Google: https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao
   LinkedIn: https://www.linkedin.com/in/nathanmlui
   orcid: https://orcid.org/0000-0003-4950-0914
@@ -39,6 +40,3 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-
-include:
-- _pages
