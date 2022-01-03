@@ -11,9 +11,9 @@ A website for Nathan Lui.
   - Placed address and icons in same row  
 - Swapped list <ul> with alternative list style <ul alt> (done rather sloppily, watch out for spacing issues...) (`_sass/components/_list.scss`)  
 - Removed date from posts (better formatting available inside post content) (`allposts.html`)  
-- Add $\LaTeX$ support by MathJax (`head.html`)
-- If there are an odd number of tiles on the home page the theme now stretches the last one to fill the row (`_sass/components/_tiles.scss`)
-- Removed extra slash (`/`) in homepage (`header.html`)
+- Add $\LaTeX$ support by MathJax (`head.html`)  
+- If there are an odd number of tiles on the home page the theme now stretches the last one to fill the row (`_sass/components/_tiles.scss`)  
+- Removed extra slash (`/`) in homepage (`header.html`)  
 
 # Credits
 
