@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Reading List
+title: <a href='/readinglist.html'>My Reading List</a>
 show_tile: false
 permalink: /readinglist.html
 ---
