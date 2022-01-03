@@ -1,8 +1,8 @@
 ---
 layout: post
-title: <a href='/readinglist.html'>My Reading List</a>
+title: <a href='/thoughts/readinglist.html'>My Reading List</a>
 show_tile: false
-permalink: /readinglist.html
+permalink: /thoughts/readinglist.html
 ---
 <!-- markdownlint-disable-file MD026 -->
 

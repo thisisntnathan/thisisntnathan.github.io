@@ -37,7 +37,7 @@ home-sort-order: 1
         <p>You can email me at <a href='mailto:nathanlui95@gmail.com' target='_blank'>nathanlui95@gmail.com</a>, <a href='https://www.instagram.com/this.isnt.nathan/' target='_blank'>follow me on Instagram</a>, or <a href='https://www.linkedin.com/in/nathanmlui' target='_blank'>connect with me through LinkedIn</a>.
         </p>
         <!-- <h2>My Reading/Listening List</h2> -->
-        <p>Check out my current <a href='/readinglist.html'>reading/listening lists</a>!</p>
+        <p>Check out my current <a href='/thoughts/readinglist.html'>reading/listening lists</a>!</p>
     </div>
 </section>
 </div>
