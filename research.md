@@ -16,7 +16,6 @@ nav-menu: true
         <header class="major" id="current">
         <h2>Current projects</h2>
         </header>
-        <!-- <h3>Current projects</h3> -->
         <div class="row">
             <div class="6u 12u$(small)">
                 <b>Structure and mechanism of the <em>N</em>-acyl Oppolzer sultam enolates.</b>
@@ -31,7 +30,6 @@ nav-menu: true
         <header class="major" id="past">
         <h3>Past projects</h3>
         </header>
-        <!-- <h3>Past projects</h3> -->
         <div class="row">
             <div class="6u 12u$(small)">
                 <b>Beetle luciferases with naturally red- and blue-shifted emission.</b>
