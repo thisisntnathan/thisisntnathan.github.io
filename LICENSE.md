@@ -1,20 +1,28 @@
-# Website (c) 2021 by Nathan Lui under Creative Commons Attribution 3.0
+# Website (c) 2021 Nathan Lui
 
-See full license text below.
+Licensed under [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/legalcode). See full license text below.
+
+# Icons
+
+## Document icon (abstracts)
+
+Document icon by [Hilmy Abiyyu Asad](https://freeicons.io/profile/75801) on [freeicons.io](freeicons.io) licensed under [Creative Commons Attribution 3.0 Unported (H.A.A.)](https://creativecommons.org/licenses/by/3.0/legalcode). See full license text below.
+
+## N icon
+
+The N icon [licensed](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8) by from [Icons8](https://icons8.com/).  
+
+## Font-Awesome Icons and code (footer, cv page)
+
+Licensed by [Font Awesome](https://fontawesome.com/) under [free licenses](https://fontawesome.com/license/free).  
 
 # Stock images
 
 Licensed by [Unsplash](https://unsplash.com/license)
 
-# Icons
+## Photos of Cornell
 
-Document icon by [Hilmy Abiyyu Asad](https://freeicons.io/profile/75801) on [freeicons.io](freeicons.io) licensed under [Creative Commons Attribution 3.0 Unported (H.A.A.)](https://creativecommons.org/licenses/by/3.0/legalcode). See full license text below.
-
-The N icon [licensed](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8) by from [Icons8](https://icons8.com/).  
-
-# Font-Awesome Icons (footer, cv page)
-
-Licensed by [Font Awesome](https://fontawesome.com/) under [free licenses](https://fontawesome.com/license/free)
+Provided by the [Cornell Photos image library](https://brand.cornell.edu/design-center/photography/).
 
 # Jekyll
 
@@ -28,7 +36,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# Original design ("Forty" by HTML5 UP) and Jekyll integration (by Andrew Banchich) licensed under Creative Commons Attribution 3.0
+# Original design ("Forty" by HTML5 UP) and Jekyll integration (by Andrew Banchich) 
+
+Licensed under [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/legalcode) by their respective creators.
 
 Creative Commons Attribution 3.0 Unported
 [http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)
