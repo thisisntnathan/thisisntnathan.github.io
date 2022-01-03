@@ -7,12 +7,14 @@ home-sort-order: 2
 nav-menu: true
 ---
 
+<!-- [Download my CV here!](/assets/NathanMLui_CV.pdf) -->
+
 # Education
 
 ### Cornell University, Ithaca, NY, USA
 
-Doctor of Philosophy in Chemistry (Candidate)  
-Master of Science (2020)  
+Doctor of Philosophy in Chemistry | Candidate  
+Master of Science in Chemistry | 2020  
 Advisor: Prof. David B. Collum  
 Thesis: Structure and reactivity of organoalkali enolate aggregates  
 
@@ -20,9 +22,10 @@ Thesis: Structure and reactivity of organoalkali enolate aggregates
 
 ### New York University Abu Dhabi, Abu Dhabi, AD, UAE
 
-Bachelor of Science in Chemistry (2018)  
+Bachelor of Science in Chemistry | 2018  
 Advisors: Prof. Wael Rabeh and Prof. Panče Naumov  
 Thesis: Conserved loops mediate the active site microenvironment and determine the color of bioluminescence in beetle luciferases  
+<!-- Specialization: Biochemistry   -->
 Minor: Urban Studies  
 
 ----
@@ -33,36 +36,41 @@ International Baccalaureate Diploma Programme (2014)
 
 <br />
 
-# Research
+# [Research](/research.html)
+
+Take a look at the [research page](/research.html) for more!
 
 ### The Collum Group
 
 Graduate Research Assistant | 2018 - present  
-**Structure and mechanism of the *N*-acyl Oppolzer sultam enolates.**  
-**
+**Structure and mechanism of the *N*-acyl Oppolzer sultam enolates**  
+**A new series of hydrocarbon-soluble organosodium bases for wide-ranging synthetic applications**
 
 ----
 
 ### The Rabeh Lab
 
 Undergraduate Researcher | 2016 - 2018  
-**Beetle luciferases with naturally red- and blue-shifted emission.** The mechanism of color tuning in bioluminescence remains one of the longest standing questions in the field. In this mutagenesis study, we examine the luciferases of two far-emitting bioluminescent insects (*Phrixothrix hirtus* and *Amydetes vivianii*) characterizing their structures, kinetics, thermostability, and substrate affinities to reveal the effect of their subtle differences on the emission colour.
+**Beetle luciferases with naturally red- and blue-shifted emission**  
+<!-- The mechanism of color tuning in bioluminescence remains one of the longest standing questions in the field. In this mutagenesis study, we examine the luciferases of two far-emitting bioluminescent insects (*Phrixothrix hirtus* and *Amydetes vivianii*) characterizing their structures, kinetics, thermostability, and substrate affinities to reveal the effect of their subtle differences on the emission colour. -->
 
 ----
 
 ### Naumov Smart Materials Lab
 
 Undergraduate Researcher | 2016 - 2018  
-**Thermochemiluminescent Peroxide Crystals.** Chemiluminescence is a process of energy transduction which transforms chemical energy into light that is commonly reported in solution. We studied an occurance of thermally induced chemiluminescence in a macroscopic crystal of lophine hydroperoxide, developing various low-light and variable-temperature analytical methods, elucidating the mechanism of hydroperoxide decomposition, and demonstrating the first instance of thermochemiluminescence in the solid state.
-
-**pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.** Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH- and humidity-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems.
+**Thermochemiluminescent Peroxide Crystals**  
+<!-- Chemiluminescence is a process of energy transduction which transforms chemical energy into light that is commonly reported in solution. We studied an occurance of thermally induced chemiluminescence in a macroscopic crystal of lophine hydroperoxide, developing various low-light and variable-temperature analytical methods, elucidating the mechanism of hydroperoxide decomposition, and demonstrating the first instance of thermochemiluminescence in the solid state. -->
+**pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films**  
+<!-- Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH- and humidity-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems. -->
 
 ----
 
 ### The Rivera Lab for Supramolecular Chemistry
 
 NSF-REU Program | Summer 2017  
-**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly.** Building off the Rivera group’s previous work with guanosine derived supramolecular complexes, we synthesized phosphorylated guanosine derivatives which form host-like microglobluar assemblies at high temperatures.  We showed that dephosphorylation by a common alkaline phosphatase induces formation of the supramolecular assemblies.  The project provided proof of concept for the enzyme-instructed formation of nonpolymeric supramolecular assemblies and laid the groundwork for creating artificial organelles *in vivo*.  
+**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**  
+<!-- Building off the Rivera group’s previous work with guanosine derived supramolecular complexes, we synthesized phosphorylated guanosine derivatives which form host-like microglobluar assemblies at high temperatures.  We showed that dephosphorylation by a common alkaline phosphatase induces formation of the supramolecular assemblies.  The project provided proof of concept for the enzyme-instructed formation of nonpolymeric supramolecular assemblies and laid the groundwork for creating artificial organelles *in vivo*.   -->
 
 <br />
 
@@ -78,7 +86,9 @@ NSF-REU Program | Summer 2017
 # Honors and Awards
 
 - **ACS Graduate Teaching Award** \| 2020  
-Teaching award given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
+<a href='https://chemistry.cornell.edu/grad-awards' rtarget='_blank'>Teaching award</a> given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
+- **NYU Abu Dhabi Conference Travel Grant** \| 2018  
+Travel grant awarded to give a spotlight talk at the 2018 Meeting of the International Society for Bioluminescence and Chemiluminescence in Nantes, France.  
 - **ACS International Undergraduate Student Chapter Travel Grant** \| 2018  
 Travel grant awarded to present honors thesis results at the 255th National Meeting of the American Chemical Society in New Orleans, LA, USA.  
 - **PR-CLIMB Travel Grant** \| 2017  
@@ -93,7 +103,6 @@ Grant to complete research at the NSF-REU site at the University of Puerto Rico 
 
 <div class="row">
     <div class="6u 12u$(small)">
-        <!-- <h4>Unordered</h4> -->
         <ul>
             <li>&#127468;&#127463; English (Native)</li>
             <li>&#127469;&#127472; Cantonese chinese (Near-native)</li>
@@ -119,4 +128,4 @@ Grant to complete research at the NSF-REU site at the University of Puerto Rico 
 
 # Publications and presentations
 
-Take a look at the publications page for a full list of my [academic publications](http://localhost:4000/publications.html) and [conference talks](http://localhost:4000/publications.html#talks).
+Take a look at the research page for a full list of my [academic publications](/research.html#papers) and [conference presentations](/research.html#talks).
