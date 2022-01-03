@@ -6,7 +6,7 @@ nav-menu: true
 description: 
 image: assets/images/journal.jpg
 author: null
-home-sort-order: 3
+home-sort-order: 4
 show_tile: true
 ---
 
