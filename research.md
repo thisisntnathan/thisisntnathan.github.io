@@ -13,7 +13,7 @@ nav-menu: true
 <!-- Research -->
 <section id="research">
     <div class="inner">
-        <header class="major">
+        <header class="major" id="current">
         <h2>Current projects</h2>
         </header>
         <!-- <h3>Current projects</h3> -->
@@ -28,7 +28,7 @@ nav-menu: true
             </div>
         </div>
         <hr>
-        <header class="major">
+        <header class="major" id="past">
         <h3>Past projects</h3>
         </header>
         <!-- <h3>Past projects</h3> -->
@@ -44,7 +44,7 @@ nav-menu: true
             <hr>
         <div class="row">
             <div class="6u 12u$(small)">
-                <b>pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.</b> Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH- and humidity-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems.
+                <b>pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.</b> Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems.
             </div>
             <div class="6u 12u$(small)">
                 <b>Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly.</b> Building off the Rivera group’s previous work with guanosine derived supramolecular complexes, we synthesized phosphorylated guanosine derivatives which form host-like microglobluar assemblies at high temperatures.  We showed that dephosphorylation by a common alkaline phosphatase induces formation of the supramolecular assemblies.  The project provided proof of concept for the enzyme-instructed formation of nonpolymeric supramolecular assemblies and laid the groundwork for creating artificial organelles <em>in vivo</em>.
@@ -61,7 +61,7 @@ nav-menu: true
         <header class="major">
             <h2>Papers</h2>
         </header>
-        Peer-reviewed academic papers. For citations see <a href='https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao' target="_blank">my Google Scholar page</a>.
+        <p>Peer-reviewed academic papers. For citations see <a href='https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao' target="_blank">my Google Scholar page</a>.</p>
     </div>
     <section>
         <a href="" target="_blank" class="image">
