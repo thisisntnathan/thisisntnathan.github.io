@@ -22,7 +22,7 @@ nav-menu: true
                 Project description
             </div>
             <div class="6u 12u$(small)">
-                <b>A new series of hydrocarbon-soluble organosodium bases for wide-ranging synthetic applications.</b>
+                <b>A new series of hydrocarbon-soluble organosodium bases with wide-ranging synthetic applications.</b>
                 Project description
             </div>
         </div>

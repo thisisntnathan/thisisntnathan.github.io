@@ -44,7 +44,7 @@ Take a look at my [research page](/research.html) for more!
 
 Graduate Research Assistant | 2018 - present  
 **Structure and mechanism of the *N*-acyl Oppolzer sultam enolates**  
-**A new series of hydrocarbon-soluble organosodium bases for wide-ranging synthetic applications**
+**A new series of hydrocarbon-soluble organosodium bases with wide-ranging synthetic applications**
 
 ----
 
