@@ -86,7 +86,7 @@ NSF-REU Program | Summer 2017
 # Honors and Awards
 
 - **ACS Graduate Teaching Award** \| 2020  
-<a href='https://chemistry.cornell.edu/grad-awards' rtarget='_blank'>Teaching award</a> given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
+<a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Teaching award</a> given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
 - **NYU Abu Dhabi Conference Travel Grant** \| 2018  
 Travel grant awarded to give a spotlight talk at the 2018 Meeting of the International Society for Bioluminescence and Chemiluminescence in Nantes, France.  
 - **ACS International Undergraduate Student Chapter Travel Grant** \| 2018  
