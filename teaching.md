@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
     <section>
         <a href="https://thisisntnathan.github.io/dftCourse/introduction.html" target="_blank" class="image">
-            <img src="{% link assets/images/graph.jpg %}" alt="" data-position="center center" />
+            <img src="{% link assets/images/teaching/graph.jpg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -41,7 +41,7 @@ nav-menu: true
     </section>
     <section>
         <a href="" target="_blank" class="image">
-            <img src="{% link assets/images/chemical-kinetics.jpg %}" alt="" data-position="top center" />
+            <img src="{% link assets/images/teaching/chemical-kinetics.jpg %}" alt="" data-position="top center" />
         </a>
         <div class="content">
             <div class="inner">
