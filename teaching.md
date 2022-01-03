@@ -16,7 +16,8 @@ nav-menu: true
         <header class="major">
             <h2>Tutorials</h2>
         </header>
-        Two tutorials I've been working on.
+        <p>Two tutorials I've been working on.
+        </p>
     </div>
 </section>
 
@@ -31,7 +32,7 @@ nav-menu: true
                 <header class="major">
                     <h3>The DFT Course</h3>
                 </header>
-                <p> A gentle introduction to computational chemistry and density functional theory <br> designed for advanced undergraduates and beginning graduate student.
+                <p> A gentle introduction to computational chemistry and density functional theory <br> designed for advanced undergraduates and beginning graduate student. <br>Provides a walkthrough for setting up calculations with step-by-step examples and exercises.
                 </p>
                 <ul class="actions">
                     <li><a href="https://thisisntnathan.github.io/dftCourse/introduction.html" target="_blank" class="button next">Take a look</a></li>
@@ -48,7 +49,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Kinetics and nonlinear curve fitting</h3>
                 </header>
-                <p>(Designed for Cornell's CHEM 6650 - Advanced Physical Organic Chemistry)
+                <p>Currently in development for Cornell's CHEM 6650 - Advanced Physical Organic Chemistry (Fall '21)
                 </p>
                 <ul class="actions">
                     <li><a href="" target="_blank" class="button">Coming Soon</a></li>
@@ -64,6 +65,7 @@ nav-menu: true
         <header class="major">
             <h2>Best practices</h2>
         </header>
-        A list of best practices
+        <p>First 3-4 lines of best practices post go here when done. <a href='/thoughts/best.html'>Read more</a>
+        </p>
     </div>
 </section>
