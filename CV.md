@@ -1,38 +1,42 @@
 ---
 layout: post
 title: Curriculum vitæ
-description:
+# description: <a href='/assets/NathanMLui_CV.pdf' target='_blank'>pdf</a>
 image: assets/images/baker.jpg
 home-sort-order: 2
 nav-menu: true
 ---
 
-<!-- [Download my CV here!](/assets/NathanMLui_CV.pdf) -->
+<center>
+    Download my <a href='/assets/NathanMLui_CV.pdf' target='_blank'>cv</a> and <a href='/assets/NathanMLui_resume.pdf' target='_blank'>résumé</a>
+</center>
 
 # Education
 
-### Cornell University, Ithaca, NY, USA
+### Cornell University, Ithaca, New York, United States of America
 
-Doctor of Philosophy in Chemistry | Candidate  
-Master of Science in Chemistry | 2020  
-Advisor: Prof. David B. Collum  
+Doctor of Philosophy in Chemistry \| Candidate  
+Master of Science in Chemistry \| 2020  
+Advisor: Professor David B. Collum  
 Thesis: Structure and reactivity of organoalkali enolate aggregates  
 
 ----
 
-### New York University Abu Dhabi, Abu Dhabi, AD, UAE
+### New York University Abu Dhabi, Abu Dhabi, United Arab Emirates
 
-Bachelor of Science in Chemistry | 2018  
-Advisors: Prof. Wael Rabeh and Prof. Panče Naumov  
+Bachelor of Science in Chemistry \| 2018  
+Advisors: Professors Wael Rabeh and Panče Naumov  
 Thesis: Conserved loops mediate the active site microenvironment and determine the color of bioluminescence in beetle luciferases  
 <!-- Specialization: Biochemistry   -->
 Minor: Urban Studies  
 
-<!-- ----
+<em>Transcripts and coursework available upon request.</em>
 
+<!--
 ### UWC-USA, Montezuma, NM, USA
 
-International Baccalaureate Diploma Programme (2014) -->
+International Baccalaureate Diploma Programme (2014) 
+-->
 
 <br />
 
@@ -52,7 +56,6 @@ Graduate Research Assistant | 2018 - present
 
 Undergraduate Researcher | 2016 - 2018  
 **Beetle luciferases with naturally red- and blue-shifted emission**  
-<!-- The mechanism of color tuning in bioluminescence remains one of the longest standing questions in the field. In this mutagenesis study, we examine the luciferases of two far-emitting bioluminescent insects (*Phrixothrix hirtus* and *Amydetes vivianii*) characterizing their structures, kinetics, thermostability, and substrate affinities to reveal the effect of their subtle differences on the emission colour. -->
 
 ----
 
@@ -60,9 +63,7 @@ Undergraduate Researcher | 2016 - 2018
 
 Undergraduate Researcher | 2016 - 2018  
 **Thermochemiluminescent Peroxide Crystals**  
-<!-- Chemiluminescence is a process of energy transduction which transforms chemical energy into light that is commonly reported in solution. We studied an occurance of thermally induced chemiluminescence in a macroscopic crystal of lophine hydroperoxide, developing various low-light and variable-temperature analytical methods, elucidating the mechanism of hydroperoxide decomposition, and demonstrating the first instance of thermochemiluminescence in the solid state. -->
 **pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films**  
-<!-- Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH- and humidity-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems. -->
 
 ----
 
@@ -70,7 +71,6 @@ Undergraduate Researcher | 2016 - 2018
 
 NSF-REU Program | Summer 2017  
 **Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**  
-<!-- Building off the Rivera group’s previous work with guanosine derived supramolecular complexes, we synthesized phosphorylated guanosine derivatives which form host-like microglobluar assemblies at high temperatures.  We showed that dephosphorylation by a common alkaline phosphatase induces formation of the supramolecular assemblies.  The project provided proof of concept for the enzyme-instructed formation of nonpolymeric supramolecular assemblies and laid the groundwork for creating artificial organelles *in vivo*.   -->
 
 <br />
 
@@ -95,6 +95,13 @@ Travel grant awarded to present honors thesis results at the 255th National Meet
 Travel grant to present summer research results at the 1st ACS Asia Pacific International Chapters Conference in Jeju, South Korea; awarded for 2nd place presentation at the PR-CLIMB research symposium.  
 - **NSF–REU Award** \| 2017  
 Grant to complete research at the NSF-REU site at the University of Puerto Rico - Río Piedras in San Juan, including housing, board, ancillary travel, and personal expenses.
+
+<br />
+<br />
+
+# Publications and presentations
+
+Take a look at the research page for a full list of my [academic publications](/research.html#papers) and [conference presentations](/research.html#talks).  
 
 <br />
 <br />
@@ -126,6 +133,10 @@ Grant to complete research at the NSF-REU site at the University of Puerto Rico 
 <br />
 <br />
 
-# Publications and presentations
+# Community and Outreach
 
-Take a look at the research page for a full list of my [academic publications](/research.html#papers) and [conference presentations](/research.html#talks).
+- **President** • ACS International Student Chapter at NYU Abu Dhabi \| August 2017 - May 2018  
+- **Financial Director and Founding Board Member** • Love Local Abu Dhabi, Abu Dhabi  \| July 2014 - May 2018  
+- **Class of 2018 Representative** • The 2010 Fund Committee at NYU Abu Dhabi \| September 2014 - June 2016  
+
+<br />
