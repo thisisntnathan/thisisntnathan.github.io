@@ -20,6 +20,8 @@ nav-menu: true
             <div class="6u 12u$(small)">
                 <b>Structure and mechanism of the <em>N</em>-acyl Oppolzer sultam enolates.</b>
                 A <em>general</em> method for the asymmetric alkylation of ketones remains, to this day, a mountain unconquered<!--, despite it's vast potential in organic synthesis -->. While photo- and electro-catalytic methods may be the <em>flavor du jour</em>, the asymmetric alkylation of carbonyls was born from the chemistry of enolates and azaenolates through the use of chiral auxiliaries, a method that remains, to this day, <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201703079' target='_blank'>the most effective route to optically pure α-substituted ketones</a>. We are currently studying the structural and mechanistic underpinnings of the alkylations of <em>N</em>-acyl Oppolzer sultam enolates.
+            <br />
+            <br />
             </div>
             <div class="6u 12u$(small)">
                 <b>A new series of hydrocarbon-soluble organosodium bases with wide-ranging synthetic applications.</b>
@@ -34,6 +36,8 @@ nav-menu: true
             <div class="6u 12u$(small)">
                 <b>Beetle luciferases with naturally red- and blue-shifted emission.</b>
                 The mechanism of color tuning in bioluminescence remains one of the longest standing questions in the field. In this mutagenesis study, we examined the luciferases of two far-emitting bioluminescent insects (<em>Phrixothrix hirtus</em> and <em>Amydetes vivianii</em>) characterizing their structures, kinetics, thermostability, and substrate affinities to reveal the effect of their subtle differences on the emission color.
+            <br />
+            <br />
             </div>
             <div class="6u 12u$(small)">
                 <b>Thermochemiluminescent Peroxide Crystals.</b> Chemiluminescence is a process of energy transduction which transforms chemical energy into light that is commonly reported in solution. We studied an occurrence of thermally induced chemiluminescence in a macroscopic crystal of lophine hydroperoxide, developing various low-light and variable-temperature analytical methods, elucidating the mechanism of hydroperoxide decomposition, and demonstrating the first instance of thermochemiluminescence in the solid state.
@@ -43,6 +47,8 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <b>pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.</b> Utilizing oxyluciferin, the product of firefly bioluminescence, we fabricated and spectroscopically characterized an agarose-based thin film for use as a humidity sensor. Absorbance and fluorescence studies found that the pH-responsive solution-state photochemistry of oxyluciferin is conserved in the solid-state demonstrating an alternative approach to the investigation of environmental effects on bioluminescent systems.
+            <br />
+            <br />
             </div>
             <div class="6u 12u$(small)">
                 <b>Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly.</b> Building off the Rivera group’s previous work with guanosine derived supramolecular complexes, we synthesized phosphorylated guanosine derivatives which form host-like microglobluar assemblies at high temperatures.  We showed that dephosphorylation by a common alkaline phosphatase induces formation of the supramolecular assemblies.  The project provided proof of concept for the enzyme-instructed formation of nonpolymeric supramolecular assemblies and laid the groundwork for creating artificial organelles <em>in vivo</em>.
