@@ -117,6 +117,7 @@ Take a look at the research page for a full list of my [academic publications](/
             <li>&#127464;&#127477; French (Intermediate)</li>
             <li>&#127464;&#127475; Mandarin chinese (Elementary)</li>
         </ul>
+        <br />
     </div>
     <div class="6u$ 12u$(small)">
         <ul>
