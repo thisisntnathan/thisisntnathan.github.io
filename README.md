@@ -17,13 +17,15 @@ A website for Nathan Lui.
 
 # Credits
 
-Stock images licensed by [Unsplash](https://unsplash.com/license)
+Stock images licensed by [Unsplash](https://unsplash.com/license).  
 
-Document icon by [Hilmy Abiyyu Asad](https://freeicons.io/profile/75801) on [freeicons.io](freeicons.io) licensed under [Creative Commons Attribution 3.0 Unported (H.A.A.)](https://creativecommons.org/licenses/by/3.0/legalcode). See full license text below.
+Document icon by [Hilmy Abiyyu Asad](https://freeicons.io/profile/75801) on [freeicons.io](freeicons.io) licensed under [Creative Commons Attribution 3.0 Unported (H.A.A.)](https://creativecommons.org/licenses/by/3.0/legalcode).  
 
-The N icon [licensed](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8) by from [Icons8](https://icons8.com/).  
+The N icon [licensed](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8) by [Icons8](https://icons8.com/).  
 
-Font-Awesome Icons (footer, cv page) licensed by [Font Awesome](https://fontawesome.com/) under [free licenses](https://fontawesome.com/license/free)
+Font-Awesome Icons (footer, cv page) licensed by [Font Awesome](https://fontawesome.com/) under [their free licenses](https://fontawesome.com/license/free)
+
+Photos of Cornell provided by the [Cornell Photos image library](https://brand.cornell.edu/design-center/photography/).  
 
 Built off of a Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/) made by [Andrew Banchich](https://github.com/andrewbanchich/forty-jekyll-theme) both licensed under [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/legalcode).  
 
