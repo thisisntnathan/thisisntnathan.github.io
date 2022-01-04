@@ -8,7 +8,8 @@ nav-menu: true
 ---
 
 <center>
-    Download my <a href='/assets/NathanMLui_CV.pdf' target='_blank'>cv</a> and <a href='/assets/NathanMLui_resume.pdf' target='_blank'>résumé</a>
+    <!-- Download my <a href='/assets/NathanMLui_CV.pdf' target='_blank'>cv</a> and <a href='/assets/NathanMLui_resume.pdf' target='_blank'>résumé</a> -->
+    <a href='/assets/NathanMLui_CV.pdf' target='_blank'>Download my cv</a>
 </center>
 
 # Education
@@ -119,7 +120,7 @@ Take a look at the research page for a full list of my [academic publications](/
     </div>
     <div class="6u$ 12u$(small)">
         <ul>
-            <li><i class="fab fa-python"></i> Python</li>
+            <li><i class="fab fa-python"></i> Python (including Jupyter notebooks)</li>
             <li><i class="fab fa-java"></i> Java</li>
             <li><i class="fas fa-terminal"></i> <code>bash</code></li>
             <li><i class="fas fa-code"></i> C++</li>
