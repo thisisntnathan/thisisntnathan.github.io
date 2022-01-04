@@ -149,6 +149,10 @@ nav-menu: true
                 </header>
                 <p><b>Nathan M. Lui</b>, Stefan Schramm, & Panče Naumov</p>
                 <details>
+                    <summary class='accolade'>Accolades</summary>
+                    An abridged version of this paper was selected for an oral presentation at the 5<sup>th</sup> UAE Undergraduate Research Competition under the title “Humidity responsive luminescent switching in oxyluciferin-agarose thin films as a basis for optical humidity sensors.”
+                </details>
+                <details>
                     <summary class='abstract'>Abstract</summary>
                     The yellow-green light emitted by fireflies is one of the most prominent examples of bioluminescence. Firefly oxyluciferin, the emitting molecule, is labile in alkaline solutions, and its structure is strongly affected by solvent polarity and pH. Previous studies have suggested that variations in the active site conditions are likely contributors to the color of bioluminescent emission. Herein, we incorporate firefly oxyluciferin into an agarose matrix to emulate the enzyme active site. Self-supporting, lightweight thin films were fabricated by solution casting and spectroscopically characterized. The previously described acidochromism of oxyluciferin is conserved in the thin films. The bathochromic shift observed in alkaline conditions results from the formation of the oxyluciferin dianion. This study demonstrates an alternative approach to investigating environmental effects on bioluminescent molecules.
                 </details>
