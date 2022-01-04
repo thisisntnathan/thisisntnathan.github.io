@@ -8,5 +8,4 @@ author: null
 show_tile: false
 ---
 
-This text is in index.md  
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Nathan Lui is a PhD candidate in the department of Chemistry and Chemical Biology at Cornell university, where he works under the advisement of Professor David Collum studying the structure-reactivity relationship of organoalkali aggregates.
