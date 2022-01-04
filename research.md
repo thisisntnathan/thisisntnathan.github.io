@@ -59,6 +59,10 @@ nav-menu: true
 
 <hr>
 
+<!-- FIXME: On mobile the buttons extend past the edge of the screen,
+            either find a way to nicely incorporate citation into body text 
+            or wrap the buttons to the next line -->
+
 <!-- Papers -->
 <section id="papers" class="spotlights">
     <div class="inner">
