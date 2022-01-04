@@ -1,4 +1,9 @@
-details > summary {
+details > summary.abstract {
   cursor: pointer;
   list-style: inside url('/assets/images/publications/abs.png');
+  }
+
+details > summary.accolade {
+  cursor: pointer;
+  list-style: inside url('/assets/images/publications/ribbon.png');
   }
