@@ -21,6 +21,8 @@ Stock images licensed by [Unsplash](https://unsplash.com/license).
 
 Document icon by [Hilmy Abiyyu Asad](https://freeicons.io/profile/75801) on [freeicons.io](freeicons.io) licensed under [Creative Commons Attribution 3.0 Unported (H.A.A.)](https://creativecommons.org/licenses/by/3.0/legalcode).  
 
+Medal icon by [Muhammad Haq](https://freeicons.io/profile/75801) on [freeicons.io](freeicons.io) licensed under [Creative Commons Attribution NonCommercial 3.0 Unported](https://creativecommons.org/licenses/by-nc/3.0/legalcode).  
+
 The N icon [licensed](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-licensing-agreement-for-icons8) by [Icons8](https://icons8.com/).  
 
 Font-Awesome Icons (footer, cv page) licensed by [Font Awesome](https://fontawesome.com/) under [their free licenses](https://fontawesome.com/license/free)
