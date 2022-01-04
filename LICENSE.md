@@ -16,7 +16,9 @@ The N icon [licensed](https://intercom.help/icons8-7fb7577e8170/en/articles/5534
 
 Licensed by [Font Awesome](https://fontawesome.com/) under [their free licenses](https://fontawesome.com/license/free).  
 
-# Stock images
+# Images
+
+## Stock images
 
 Licensed by [Unsplash](https://unsplash.com/license)
 
