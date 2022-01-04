@@ -8,14 +8,18 @@ permalink: /thoughts/readinglist.html
 
 ## My current book(s):
 
-*Dune* by Frank Herbert
-*The Unbearable Lightness of Being* by Milan Kundera (a great book for when you're stuck in airports or train stations or coffee shops with nothing to do)
+- *Dune* by Frank Herbert  
+- *The Unbearable Lightness of Being* by Milan Kundera (a great book for when you're stuck in airports or train stations or coffee shops with nothing to do)  
+
+<br>
 
 ### Books on my list:
 
-- *Do Androids Dream of Electric Cars:* Public Transit in the Age of Google, Uber, and Elon Musk by James Wilt
-- *The 99% Invisible City:* A Field Guide to the Hidden World of Everyday Design by Roman Mars and Kurt Kohlstedt (a book that I bought on presale, but admittedly never got around to reading)
-- *Anna Karenina* by Leo Tolstoy (my white whale, one day, I will finish this book)
+- *Do Androids Dream of Electric Cars:* Public Transit in the Age of Google, Uber, and Elon Musk by James Wilt  
+- *The 99% Invisible City:* A Field Guide to the Hidden World of Everyday Design by Roman Mars and Kurt Kohlstedt (a book that I bought on presale, but admittedly never got around to reading)  
+- *Anna Karenina* by Leo Tolstoy (my white whale, one day, I will finish this book)  
+
+<br>
 
 ## My current morning bus ride podcasts:
 
