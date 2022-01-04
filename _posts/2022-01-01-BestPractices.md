@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <a href='/thoughts/best.html'>Best Practices</a>
-description: Ipsum dolor sit amet
+description: 
 image: null
 permalink: /thoughts/best.html
 ---
