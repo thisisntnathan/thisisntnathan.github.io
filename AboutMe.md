@@ -23,7 +23,7 @@ home-sort-order: 1
         <div class="row">
             <div class="6u 12u$(small)">
                 <a href='/research.html'><h3>Current</h3></a>
-                <p>My current research focuses on the structural determination of organometallic complexes in solution for kinetic and mechanistic study for the purposes of commercial process optimization and chemical methods development. <a href='/research.html'>Read more</a>
+                <p>My current research focuses on the structural determination of organometallic complexes in solution which serves as the basis of mechanism-based process optimization and chemical methods development. <a href='/research.html'>Read more</a>
                 </p>
             </div>
             <div class="6u$ 12u$(small)">
