@@ -209,10 +209,10 @@ nav-menu: true
         <header class="major">
             <h2>Presentations</h2>
         </header>
-        Presentations at conferences and seminars
+        Presentations at academic conferences and seminars
         <br /><br />
         <ul>
-            <li><b>Graduate and Postdoc Symposium</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar.</li>
+            <li><b>Graduate and Postdoc Spring Seminar Series</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar on 15 Apr 2022.</li>
             <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes, France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight on 29 May 2018.</li>
             <li><b>255th National Meeting of the American Chemical Society</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix presentation on 19 Mar 2018.</li>
             <li><b>Environmental & Materials Science Symposium</b> | Abu Dhabi, UAE<br>“Bioluminescence in Nanotechnology: Characterization of two novel luciferases for applications in emerging nanobiotechnologies.” <br>Presentation on 6 Dec 2017.</li>
