@@ -86,6 +86,8 @@ NSF-REU Program | Summer 2017
 
 # Honors and Awards
 
+- **Bauer Scholarship Award** \| 2022
+<a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Travel award</a> to return to NYU Abu Dhabi to give a reserach talk.  
 - **ACS Graduate Teaching Award** \| 2020  
 <a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Teaching award</a> given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
 - **NYU Abu Dhabi Conference Travel Grant** \| 2018  
@@ -121,13 +123,13 @@ Take a look at the research page for a full list of my [academic publications](/
     </div>
     <div class="6u$ 12u$(small)">
         <ul>
-            <li><i class="fab fa-python"></i> Python (including Jupyter notebooks)</li>
+            <li><i class="fab fa-python"></i> Python</li>
             <li><i class="fab fa-java"></i> Java</li>
             <li><i class="fas fa-terminal"></i> <code>bash</code></li>
             <li><i class="fas fa-code"></i> C++</li>
             <!-- <li><i class="fab fa-linux"></i> Linux</li> -->
-            <li><i class="fas fa-code-branch"></i> Version control with <i class="fab fa-git-square"></i></li>
-            <li>$\LaTeX$</li>
+            <!-- <li><i class="fas fa-code-branch"></i> Version control with <i class="fab fa-git-square"></i></li> -->
+            <!-- <li>$\LaTeX$</li> -->
         </ul>
     </div>
 </div>
