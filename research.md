@@ -212,7 +212,7 @@ nav-menu: true
         Presentations at academic conferences and seminars
         <br /><br />
         <ul>
-            <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of alkylation of Oppolzer’s camphorsultam-derived enolates." 22 Aug 22.</li>
+            <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of alkylation of Oppolzer’s camphorsultam-derived enolates." Seminar schduled for 22 Aug 2022.</li>
             <li><b>Graduate and Postdoc Spring Seminar Series</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar on 15 Apr 2022.</li>
             <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes, France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight on 29 May 2018.</li>
             <li><b>American Chemical Society National Meeting</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix presentation on 19 Mar 2018.</li>
