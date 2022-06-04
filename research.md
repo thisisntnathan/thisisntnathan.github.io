@@ -212,9 +212,10 @@ nav-menu: true
         Presentations at academic conferences and seminars
         <br /><br />
         <ul>
+            <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of alkylation of Oppolzer’s camphorsultam-derived enolates." 22 Aug 22.</li>
             <li><b>Graduate and Postdoc Spring Seminar Series</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar on 15 Apr 2022.</li>
             <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes, France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight on 29 May 2018.</li>
-            <li><b>255th National Meeting of the American Chemical Society</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix presentation on 19 Mar 2018.</li>
+            <li><b>American Chemical Society National Meeting</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix presentation on 19 Mar 2018.</li>
             <li><b>Environmental & Materials Science Symposium</b> | Abu Dhabi, UAE<br>“Bioluminescence in Nanotechnology: Characterization of two novel luciferases for applications in emerging nanobiotechnologies.” <br>Presentation on 6 Dec 2017.</li>
             <li><b>American Chemical Society Asia-Pacific International Chapters Conference</b> | Jeju Island, South Korea<br>“CellPlus: Paving the way for artificial organelles by the enzyme-instructed self-assembly of guanosine derivatives.” Presentation on 6 Nov 2017.</li>
             <li><b>Middle East Molecular Biology Sources (MEMBS) Annual Congress</b> | Abu Dhabi, UAE<br>“Structural insight into the mechanism of a blue-shifted green-emitting luciferase.” Presentation on 3 Nov 2017.</li>
