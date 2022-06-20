@@ -77,8 +77,8 @@ nav-menu: true
         </header>
         <ul>
             <li>Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, <b>Nathan M. Lui</b>, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet, & Panče Naumov "Spectrochemistry of Firefly Bioluminescence." <em>Manuscript currently in peer review at Chemical Reviews.</em></li>
-            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Oppolzer-Sultam-Derived Enolates: Structure and Mechanism of Alkylation.” <em>Manuscript in preparation.</em></li>
-            <li>Yun Ma, <b>Nathan M. Lui</b>, & David B. Collum. “Reactivity of Sodium Monosilylamides.” <em>Manuscript in preparation.</em></li>
+            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures and Mechanism of Alkylation.” <em>Manuscript in preparation.</em></li>
+            <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium iso-Propyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript in preparation.</em></li>
         </ul>
         <br />
     </div>
