@@ -77,7 +77,7 @@ NSF-REU Program | Summer 2017
 
 # Teaching
 
-- **CHEM 6650** \| Advanced Physical Organic Chemistry - Instructor  
+- **CHEM 7680** \| Advanced Physical Organic Chemistry - Instructor  
 - **CHEM 2510** \| Introduction to Experimental Organic Chemistry - Teaching Assistant  
 - **CHEM 2070** \| General Chemistry I - Teaching Assistant  
 
@@ -86,7 +86,7 @@ NSF-REU Program | Summer 2017
 
 # Honors and Awards
 
-- **Bauer Scholarship Award** \| 2022
+- **Bauer Scholarship Award** \| 2022  
 <a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Travel award</a> to return to NYU Abu Dhabi to give a reserach talk.  
 - **ACS Graduate Teaching Award** \| 2020  
 <a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Teaching award</a> given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
@@ -127,8 +127,8 @@ Take a look at the research page for a full list of my [academic publications](/
             <li><i class="fab fa-java"></i> Java</li>
             <li><i class="fas fa-terminal"></i> <code>bash</code></li>
             <li><i class="fas fa-code"></i> C++</li>
-            <!-- <li><i class="fab fa-linux"></i> Linux</li> -->
-            <!-- <li><i class="fas fa-code-branch"></i> Version control with <i class="fab fa-git-square"></i></li> -->
+            <li><i class="fab fa-linux"></i> Linux</li>
+            <li><i class="fas fa-code-branch"></i> Version control with <i class="fab fa-git-square"></i></li>
             <!-- <li>$\LaTeX$</li> -->
         </ul>
     </div>
