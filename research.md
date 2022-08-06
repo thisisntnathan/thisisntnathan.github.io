@@ -69,22 +69,21 @@ nav-menu: true
         <header class="major">
             <h2>Papers</h2>
         </header>
-        <p>Peer-reviewed academic papers. Go to <a href='https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao' target="_blank">my Google Scholar page</a> for citations.
+        <p>Peer-reviewed academic papers. Go to <a href='https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao' target="_blank">my Google Scholar page</a> for citation data.
         </p>
         <hr>
         <header class="major">
             <h3>Manuscripts in preparation and review</h3>
         </header>
         <ul>
-            <li>Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, <b>Nathan M. Lui</b>, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet, & Panče Naumov "Spectrochemistry of Firefly Bioluminescence." <em>Manuscript currently in peer review at Chemical Reviews.</em></li>
-            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures and Mechanism of Alkylation.” <em>Manuscript in preparation.</em></li>
-            <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium iso-Propyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript in preparation.</em></li>
+            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures and Mechanism of Alkylation.” <em>Manuscript under submission at the Journal of the Amercian Chemical Society.</em></li>
+            <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript in review at the Journal of Organic Chemistry.</em></li>
         </ul>
         <br />
     </div>
     <section>
-        <a href="" target="_blank" class="image">
-            <img src="{% link assets/images/2022_oxyluc.jpeg %}" alt="" data-position="center center" />
+        <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c01047" target="_blank" class="image">
+            <img src="{% link assets/images/publications/2022_oxyluc.jpeg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -98,7 +97,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="" target="_blank" class="button"> Currently in review at <em>Chemical Reviews</em> </a></li>
+                    <li><a href="" target="_blank" class="button"> Currently in press at <em>Chemical Reviews</em> </a></li>
                 </ul>
                 <br />
             </div>
@@ -212,7 +211,7 @@ nav-menu: true
         Presentations at academic conferences and seminars
         <br /><br />
         <ul>
-            <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of alkylation of Oppolzer’s camphorsultam-derived enolates." Seminar schduled for 22 Aug 2022.</li>
+            <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of alkylation of Oppolzer’s camphorsultam-derived enolates." Talk schduled for 21 Aug 2022.</li>
             <li><b>Graduate and Postdoc Spring Seminar Series</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar on 15 Apr 2022.</li>
             <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes, France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight on 29 May 2018.</li>
             <li><b>American Chemical Society National Meeting</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix presentation on 19 Mar 2018.</li>
