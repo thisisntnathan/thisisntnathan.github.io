@@ -82,9 +82,9 @@ nav-menu: true
         </ul>
         <br />
     </div>
-    <!-- <section>
+    <section>
         <a href="" target="_blank" class="image">
-            <img src="{% link assets/images/stacks.jpg %}" alt="" data-position="center center" />
+            <img src="{% link assets/images/2022_oxyluc.jpeg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -94,7 +94,7 @@ nav-menu: true
                 <p>Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, <b>Nathan M. Lui</b>, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet, & Panče Naumov</p>
                 <details>
                     <summary class='abstract'>Abstract</summary>
-                    The chemical reactions underlying the emission of light in fireflies and other bioluminescent beetles is one of the most thoroughly studied processes by scientists worldwide. Despite these remarkable efforts, fierce academic arguments continue around even some of the most fundamental aspects of the mechanism behind bioluminescence. In an attempt to reach a consensus we made an exhaustive search of the available literature and compiled the key discoveries on the fluorescence and chemiluminescence of firefly oxyluciferin and its chemical analogues reported over the past 50+ years. The factors that affect the light emission, including intermolecular interactions, solvent polarity, and electronic effects were analyzed in the context of both the reaction mechanism and the different colors of light emitted by different luciferases. The collective data points towards a combined emission of multiple coexistent forms of oxyluciferin as the most probable explanation for the variation in color of the emitted light. We also highlight realistic research directions to eventually address some of the remaining questions related to firefly bioluminescence. It is our hope that this extensive compilation of data and detailed analysis will not only consolidate the existing body of knowledge on this important process, but also aid in reaching a wider consensus on some of the mechanistic details of firefly bioluminescence.
+                    The chemical reactions underlying the emission of light in fireflies and other bioluminescent beetles are some of the most thoroughly studied processes by scientists worldwide. Despite these remarkable efforts, fierce academic arguments continue around even some of the most fundamental aspects of the reaction mechanism behind the beetle bioluminescence. In an attempt to reach a consensus, we made an exhaustive search of the available literature and compiled the key discoveries on the fluorescence and chemiluminescence spectrochemistry of the emitting molecule, the firefly oxyluciferin, and its chemical analogues reported over the past 50+ years. The factors that affect the light emission, including intermolecular interactions, solvent polarity, and electronic effects, were analyzed in the context of both the reaction mechanism and the different colors of light emitted by different luciferases. The collective data points toward a combined emission of multiple coexistent forms of oxyluciferin as the most probable explanation for the variation in color of the emitted light. We also highlight realistic research directions to eventually address some of the remaining questions related to firefly bioluminescence. It is our hope that this extensive compilation of data and detailed analysis will not only consolidate the existing body of knowledge on this important phenomenon but will also aid in reaching a wider consensus on some of the mechanistic details of firefly bioluminescence.
                 </details>
                 <br />
                 <ul class="actions">
@@ -103,7 +103,7 @@ nav-menu: true
                 <br />
             </div>
         </div>
-    </section> -->
+    </section>
     <section>
         <a href="https://www.nature.com/articles/s41570-020-00238-1" target="_blank" class="image">
             <img src="{% link assets/images/publications/2021_natchemrev_5_1_cover.png %}" alt="" data-position="top center" />
