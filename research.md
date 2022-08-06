@@ -76,14 +76,14 @@ nav-menu: true
             <h3>Manuscripts in preparation and review</h3>
         </header>
         <ul>
-            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures and Mechanism of Alkylation.” <em>Manuscript under submission at the Journal of the Amercian Chemical Society.</em></li>
+            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity” <em>Manuscript under submission at the Journal of the Amercian Chemical Society.</em></li>
             <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript in review at the Journal of Organic Chemistry.</em></li>
         </ul>
         <br />
     </div>
     <section>
         <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c01047" target="_blank" class="image">
-            <img src="{% link assets/images/publications/2022_oxyluc.jpeg %}" alt="" data-position="center center" />
+            <img src="{% link assets/images/publications/2022_oxyluc_b.png %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -97,7 +97,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="" target="_blank" class="button"> Currently in press at <em>Chemical Reviews</em> </a></li>
+                    <li><a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c01047" target="_blank" class="button"> Currently in press at <em>Chemical Reviews</em> </a></li>
                 </ul>
                 <br />
             </div>
