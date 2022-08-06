@@ -88,7 +88,7 @@ nav-menu: true
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Spectrochemistry of Firefly Bioluminescence</h3>
+                    <h3>Spectrochemistry of firefly bioluminescence</h3>
                 </header>
                 <p>Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, <b>Nathan M. Lui</b>, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet, & Panče Naumov</p>
                 <details>
