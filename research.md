@@ -97,7 +97,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="" target="_blank" class="button">Manuscript accepted for publication in the <em>Journal of Organic Chemistry.</em></li>
+                    <li><a href="" target="_blank" class="button">Manuscript accepted for publication in the <em>Journal of Organic Chemistry.</em></a></li>
                 </ul>
                 <br />
             </div>
