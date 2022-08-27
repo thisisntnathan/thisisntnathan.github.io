@@ -81,7 +81,7 @@ nav-menu: true
         </ul>
         <br />
     </div>
-    <section>
+    <!-- <section>
         <a href="" target="_blank" class="image">
             <img src="{% link assets/images/publications/2022_NaPTA.png %}" alt="" data-position="center center" />
         </a>
@@ -97,12 +97,12 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="" target="_blank" class="button">Manuscript accepted for publication in the <em>Journal of Organic Chemistry.</em></a></li>
+                    <li><a href="" target="_blank" class="button">In press at the <em>Journal of Organic Chemistry.</em></a></li>
                 </ul>
                 <br />
             </div>
         </div>
-    </section>
+    </section> -->
     <section>
         <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c01047" target="_blank" class="image">
             <img src="{% link assets/images/publications/2022_oxyluc_cover.jpg %}" alt="" data-position="center center" />
