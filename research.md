@@ -97,7 +97,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c01047" target="_blank" class="button"> Currently in press at <em>Chemical Reviews</em> </a></li>
+                    <li><a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c01047" target="_blank" class="button"><em>Chemical Reviews</em> 2022, <em>122</em> (16), 13207</a></li>
                 </ul>
                 <br />
             </div>
