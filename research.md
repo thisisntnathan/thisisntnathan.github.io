@@ -77,7 +77,7 @@ nav-menu: true
         </header>
         <ul>
             <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity” <em>Manuscript under submission at the Journal of the American Chemical Society.</em></li>
-            <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript accepted for publication in the Journal of Organic Chemistry.</em></li>
+            <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript under review at the Journal of Organic Chemistry.</em></li>
         </ul>
         <br />
     </div>
