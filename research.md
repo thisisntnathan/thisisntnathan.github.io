@@ -77,13 +77,35 @@ nav-menu: true
         </header>
         <ul>
             <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity” <em>Manuscript under submission at the Journal of the American Chemical Society.</em></li>
-            <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript in review at the Journal of Organic Chemistry.</em></li>
+            <li>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum. “Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.” <em>Manuscript accepted for publication in the Journal of Organic Chemistry.</em></li>
         </ul>
         <br />
     </div>
     <section>
+        <a href="" target="_blank" class="image">
+            <img src="{% link assets/images/publications/2022_napta.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.</h3>
+                </header>
+                <p>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum</p>
+                <details>
+                    <summary class='abstract'>Abstract</summary>
+                    The preparation, structure, physical properties, and reactivities of sodium isopropyl(trimethylsilyl)amide (NaPTA) are described. Solubilities at room temperature range from n-heptane (0.55 M), n-hexane (0.60 M), toluene (0.65 M), MTBE (1.7 M), Et3N (3.2 M), and THF (>6.0 M). The half-life to destruction in neat THF is >1 year at 25 °C and 7 days at 70 °C, which compares favorably to 2.5 months and 1.5 days, respectively, for LDA in neat THF. The manuscript focuses on NaPTA/THF solutions. <sup>29</sup>Si spectroscopy shows exclusively a mixture of <em>cis</em> and <em>trans</em> stereoisomeric dimers in 0.10–12 M THF in hexane. Density functional theory (DFT) computations suggest a pK<sub>b</sub> that is intermediate between dimeric sodium  diisopropylamide (NaDA) and dimeric sodium hexamethyldisilazide (NaHMDS). Metalations of arenes, epoxides, ketones, hydrazones, alkenes, and alkyl halides show higher reactivities than LDA (<em>k</em><sub>NaPTA/LDA</sub> = 1–30). While the rates of arene metalation are high, the lower pK<sub>b</sub> of NaPTA limits the substrates. Metalation of pseudoephedrate-based carboxamides to form disodiated Myers enolates solves several challenging technical problems.
+                </details>
+                <br />
+                <ul class="actions">
+                    <li><a href="" target="_blank" class="button">Manuscript accepted for publication in the <em>Journal of Organic Chemistry.</em></li>
+                </ul>
+                <br />
+            </div>
+        </div>
+    </section>
+    <section>
         <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.1c01047" target="_blank" class="image">
-            <img src="{% link assets/images/publications/2022_oxyluc_b.png %}" alt="" data-position="center center" />
+            <img src="{% link assets/images/publications/2022_oxyluc_cover.jpg %}" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
