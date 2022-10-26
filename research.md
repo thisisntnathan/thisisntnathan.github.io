@@ -76,7 +76,7 @@ nav-menu: true
             <h3>Manuscripts in review</h3>
         </header>
         <ul>
-            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity” <em>Manuscript under submission at the Journal of the American Chemical Society.</em></li>
+            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity” <em>Manuscript in review at the Journal of the American Chemical Society.</em></li>
         </ul>
         <br />
     </div>
