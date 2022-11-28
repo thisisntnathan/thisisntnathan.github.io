@@ -91,6 +91,10 @@ nav-menu: true
                 </header>
                 <p><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum</p>
                 <details>
+                    <summary class='accolade'>Accolades</summary>
+                    Paper presented at the Fall 2022 ACS General Meeting<br>
+                </details>
+                <details>
                     <summary class='abstract'>Abstract</summary>
                     Camphorsultam-based lithium enolates referred to colloquially as Oppolzer enolates are examined spectroscopically, crystallographically, kinetically, and computationally to ascertain the mechanism of alkylation and the origin of the stereoselectivity. Solvent- and substrate-dependent structures include tetramers for alkylsubstituted enolates in toluene, unsymmetric dimers for aryl-substituted enolates in toluene, substrate-independent symmetric dimers in THF and THF/toluene mixtures, HMPA-bridged trisolvated dimers at low HMPA concentrations, and disolvated monomers for the aryl-substituted enolates at elevated HMPA concentrations. Extensive analyses of the stereochemistry of aggregation are included. Rate studies for reaction with allyl bromide implicate an HMPA-solvated ion pair with a <sup>+</sup>Li(HMPA)<sub>4</sub> counterion. Dependencies on toluene and THF are attributed to exclusively secondary shell (medium) effects. Aided by density functional theory (DFT) computations, a stereochemical model is presented in which neither chelates nor the lithium gegenion serve roles. The stereoselectivity stems from the chirality within the sultam ring and not the camphor skeletal core.
                 </details>
