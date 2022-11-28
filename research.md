@@ -76,11 +76,31 @@ nav-menu: true
             <h3>Manuscripts in review</h3>
         </header>
         <ul>
-            <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity” <em>Manuscript in review at the Journal of the American Chemical Society.</em></li>
+            <!-- <li><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum. “Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity” <em>Manuscript *in press* at the Journal of the American Chemical Society.</em></li> -->
         </ul>
         <br />
     </div>
     <section>
+        <a href="" target="_blank" class="image">
+            <img src="{% link assets/images/publications/2022_LiOppolzer.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity.</h3>
+                </header>
+                <p><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum</p>
+                <details>
+                    <summary class='abstract'>Abstract</summary>
+                    Camphorsultam-based lithium enolates referred to colloquially as Oppolzer enolates are examined spectroscopically, crystallographically, kinetically, and computationally to ascertain the mechanism of alkylation and the origin of the stereoselectivity. Solvent- and substrate-dependent structures include tetramers for alkylsubstituted enolates in toluene, unsymmetric dimers for aryl-substituted enolates in toluene, substrate-independent symmetric dimers in THF and THF/toluene mixtures, HMPA-bridged trisolvated dimers at low HMPA concentrations, and disolvated monomers for the aryl-substituted enolates at elevated HMPA concentrations. Extensive analyses of the stereochemistry of aggregation are included. Rate studies for reaction with allyl bromide implicate an HMPA-solvated ion pair with a <sup>+</sup>Li(HMPA)<sub>4</sub> counterion. Dependencies on toluene and THF are attributed to exclusively secondary shell (medium) effects. Aided by density functional theory (DFT) computations, a stereochemical model is presented in which neither chelates nor the lithium gegenion serve roles. The stereoselectivity stems from the chirality within the sultam ring and not the camphor skeletal core.
+                </details>
+                <br />
+                <ul class="actions">
+                    <li><a href="" target="_blank" class="button"> <em>Journal of the American Chemical Society, in press</em> </a></li>
+                </ul>
+                <br />
+            </div>
+        </div>
         <a href="https://pubs.acs.org/doi/10.1021/acs.joc.2c01745" target="_blank" class="image">
             <img src="{% link assets/images/publications/2022_NaPTA.png %}" alt="" data-position="center center" />
         </a>
@@ -96,7 +116,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="https://pubs.acs.org/doi/10.1021/acs.joc.2c01745" target="_blank" class="button"> <em>Journal of Organic Chemistry</em> ASAP</a></li>
+                    <li><a href="https://pubs.acs.org/doi/10.1021/acs.joc.2c01745" target="_blank" class="button"> <em>Journal of Organic Chemistry,</em> 2022, <em>87</em> (21), 14223</a></li>
                 </ul>
                 <br />
             </div>
