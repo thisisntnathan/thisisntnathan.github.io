@@ -101,6 +101,8 @@ nav-menu: true
                 <br />
             </div>
         </div>
+    </section>
+    <section>
         <a href="https://pubs.acs.org/doi/10.1021/acs.joc.2c01745" target="_blank" class="image">
             <img src="{% link assets/images/publications/2022_NaPTA.png %}" alt="" data-position="center center" />
         </a>
