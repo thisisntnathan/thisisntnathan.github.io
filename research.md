@@ -76,8 +76,8 @@ nav-menu: true
             <h3>Working manuscripts & preprints</h3>
         </header>
         <ul>
-            <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b>, & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in prearation for the <em>Journal of Natural Products</em>.</li>
-            <li><b>Nathan M. Lui</b>, Max Li, & Matt Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Manuscript in preparation</em>.</li>
+            <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b> & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in prearation for the <em>Journal of Natural Products</em>.</li>
+            <li><b>Nathan M. Lui</b>, Max Li & Matt Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Manuscript in preparation</em>.</li>
         </ul>
         <br />
     </div>
@@ -90,7 +90,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity.</h3>
                 </header>
-                <p><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum</p>
+                <p><b>Nathan M. Lui</b>, Samantha N. MacMillan & David B. Collum</p>
                 <details>
                     <summary class='accolade'>Accolades</summary>
                     Selected for oral presentation at the Fall 2022 ACS General Meeting<br>
@@ -116,7 +116,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.</h3>
                 </header>
-                <p>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum</p>
+                <p>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist & David B. Collum</p>
                 <details>
                     <summary class='accolade'>Accolades</summary>
                     Featured in the December 2022 installment of “<a href="https://pubs.acs.org/doi/10.1021/acs.oprd.2c00363" target="_blank">Some Items of Interest to Process R&D Chemists and Engineers</a>” in <em>Organic Process Research & Development</em>. <br>
@@ -142,7 +142,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Spectrochemistry of firefly bioluminescence</h3>
                 </header>
-                <p>Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, <b>Nathan M. Lui</b>, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet, & Panče Naumov</p>
+                <p>Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, <b>Nathan M. Lui</b>, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet & Panče Naumov</p>
                 <details>
                     <summary class='abstract'>Abstract</summary>
                     The chemical reactions underlying the emission of light in fireflies and other bioluminescent beetles are some of the most thoroughly studied processes by scientists worldwide. Despite these remarkable efforts, fierce academic arguments continue around even some of the most fundamental aspects of the reaction mechanism behind the beetle bioluminescence. In an attempt to reach a consensus, we made an exhaustive search of the available literature and compiled the key discoveries on the fluorescence and chemiluminescence spectrochemistry of the emitting molecule, the firefly oxyluciferin, and its chemical analogues reported over the past 50+ years. The factors that affect the light emission, including intermolecular interactions, solvent polarity, and electronic effects, were analyzed in the context of both the reaction mechanism and the different colors of light emitted by different luciferases. The collective data points toward a combined emission of multiple coexistent forms of oxyluciferin as the most probable explanation for the variation in color of the emitted light. We also highlight realistic research directions to eventually address some of the remaining questions related to firefly bioluminescence. It is our hope that this extensive compilation of data and detailed analysis will not only consolidate the existing body of knowledge on this important phenomenon but will also aid in reaching a wider consensus on some of the mechanistic details of firefly bioluminescence.
@@ -164,7 +164,7 @@ nav-menu: true
                 <header class="major">
                     <h3>The elusive relationship between structure <br>and colour emission in beetle luciferases</h3>
                 </header>
-                <p>César Carrasco-López, <b>Nathan M. Lui</b>, Stefan Schramm, & Panče Naumov</p>
+                <p>César Carrasco-López, <b>Nathan M. Lui</b>, Stefan Schramm & Panče Naumov</p>
                 <details>
                     <summary class='abstract'>Abstract</summary>
                     In beetles, luciferase enzymes catalyse the conversion of chemical energy into light through bioluminescence. The principles of this process have become a fundamental biotechnological tool that revolutionized biological research. Different beetle species can emit different colours of light, despite using the same substrate and highly homologous luciferases. The chemical reasons for these different colours are hotly debated yet remain unresolved. This Review summarizes the structural, biochemical and spectrochemical data on beetle bioluminescence reported over the past three decades. We identify the factors that govern what colour is emitted by wild-type and mutant luciferases. This topic is controversial, but, in general, we note that green emission requires cationic residues in a specific position near the benzothiazole fragment of the emitting molecule, oxyluciferin. The commonly emitted green–yellow light can be readily changed to red by introducing a variety of individual and multiple mutations. However, complete switching of the emitted light from red to green has not been accomplished and the synergistic effects of combined mutations remain unexplored. The minor colour shifts produced by most known mutations could be important in establishing a ‘mutational catalogue’ to fine-tune emission of beetle luciferases, thereby expanding the scope of their applications.
@@ -186,7 +186,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Thermochemiluminescent peroxide crystals</h3>
                 </header>
-                <p>Stefan Schramm, Durga Prasad Karothu, <b>Nathan M. Lui</b>, Patrick Commins, Ejaz Ahmed, Luca Catalano, Liang Li, James Weston, Taro Moriwaki, Kyril M. Solntsev, & Panče Naumov</p>
+                <p>Stefan Schramm, Durga Prasad Karothu, <b>Nathan M. Lui</b>, Patrick Commins, Ejaz Ahmed, Luca Catalano, Liang Li, James Weston, Taro Moriwaki, Kyril M. Solntsev & Panče Naumov</p>
                 <details>
                     <summary class='abstract'>Abstract</summary>
                     Chemiluminescence, a process of transduction of energy stored within chemical bonds of ground-state reactants into light via high-energy excited intermediates, is known in solution, but has remained undetected in macroscopic crystalline solids. By detecting thermally induced chemiluminescence from centimeter-size crystals of an organic peroxide here we demonstrate direct transduction of heat into light by thermochemiluminescence of bulk crystals. Heating of crystals of lophine hydroperoxide to ~115°C results in detectable emission of blue-green light with maximum at 530 nm with low chemiluminescent quantum yield [(2.1±0.1) × 10<sup>‒7</sup>E mol<sup>‒1</sup>]. Spectral comparison of the thermochemiluminescence in the solid state and in solution revealed that the solid-state thermochemiluminescence of lophine peroxide is due to emission from deprotonated lophine. With selected 1,2-dioxetane, endoperoxide and aroyl peroxide we also establish that the thermochemiluminescence is common for crystalline peroxides, with the color of the emitted light varying from blue to green to red.
@@ -208,7 +208,7 @@ nav-menu: true
                 <header class="major">
                     <h3>pH-Dependent fluorescence <br>from firefly oxyluciferin in agarose thin films</h3>
                 </header>
-                <p><b>Nathan M. Lui</b>, Stefan Schramm, & Panče Naumov</p>
+                <p><b>Nathan M. Lui</b>, Stefan Schramm & Panče Naumov</p>
                 <details>
                     <summary class='accolade'>Accolades</summary>
                     An abridged version of this paper was selected for an oral presentation at the 5<sup>th</sup> UAE Undergraduate Research Competition under the title “Humidity responsive luminescent switching in oxyluciferin-agarose thin films as a basis for optical humidity sensors.”
@@ -234,7 +234,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Beetle luciferases with naturally red- and blue-shifted emission</h3>
                 </header>
-                <p>César Carrasco-López, Juliana C. Ferreira, <b>Nathan M. Lui</b>, Stefan Schramm, Romain Berraud-Pache, Isabelle Navizet, Santosh Panjikar, Panče Naumov, & Wael M. Rabeh </p>
+                <p>César Carrasco-López, Juliana C. Ferreira, <b>Nathan M. Lui</b>, Stefan Schramm, Romain Berraud-Pache, Isabelle Navizet, Santosh Panjikar, Panče Naumov & Wael M. Rabeh </p>
                 <details>
                     <summary class='accolade'>Accolades</summary>
                     Selected for spotlight talk at 2018 ISBC General Meeting (top abstract in section)<br>
