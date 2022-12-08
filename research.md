@@ -81,7 +81,7 @@ nav-menu: true
         <br />
     </div>
     <section>
-        <a href="" target="_blank" class="image">
+        <a href="https://doi.org/10.1021/jacs.2c09341" target="_blank" class="image">
             <img src="{% link assets/images/publications/2022_LiOppolzer.png %}" alt="" data-position="center center" />
         </a>
         <div class="content">
@@ -100,7 +100,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="" target="_blank" class="button"> <em>Journal of the American Chemical Society, in press</em> </a></li>
+                    <li><a href="https://doi.org/10.1021/jacs.2c09341" target="_blank" class="button"> <em>Journal of the American Chemical Society, in press</em> </a></li>
                 </ul>
                 <br />
             </div>
