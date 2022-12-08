@@ -92,7 +92,7 @@ nav-menu: true
                 <p><b>Nathan M. Lui</b>, Samantha N. MacMillan, & David B. Collum</p>
                 <details>
                     <summary class='accolade'>Accolades</summary>
-                    Paper presented at the Fall 2022 ACS General Meeting<br>
+                    Selected for oral presentation at the Fall 2022 ACS General Meeting<br>
                 </details>
                 <details>
                     <summary class='abstract'>Abstract</summary>
@@ -116,6 +116,10 @@ nav-menu: true
                     <h3>Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.</h3>
                 </header>
                 <p>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist, & David B. Collum</p>
+                <details>
+                    <summary class='accolade'>Accolades</summary>
+                    Featured in the December 2022 installment of “<a href="https://pubs.acs.org/doi/10.1021/acs.oprd.2c00363" target="_blank">Some Items of Interest to Process R&D Chemists and Engineers</a>” in <em>Organic Process Research & Development</em>. <br>
+                </details>
                 <details>
                     <summary class='abstract'>Abstract</summary>
                     The preparation, structure, physical properties, and reactivities of sodium isopropyl(trimethylsilyl)amide (NaPTA) are described. Solubilities at room temperature range from <em>n</em>-heptane (0.55 M), <em>n</em>-hexane (0.60 M), toluene (0.65 M), MTBE (1.7 M), Et<sub>3</sub>N (3.2 M), and THF (>6.0 M). The half-life to destruction in neat THF is >1 year at 25 °C and 7 days at 70 °C, which compares favorably to 2.5 months and 1.5 days, respectively, for LDA in neat THF. The manuscript focuses on NaPTA/THF solutions. <sup>29</sup>Si spectroscopy shows exclusively a mixture of <em>cis</em> and <em>trans</em> stereoisomeric dimers in 0.10–12 M THF in hexane. Density functional theory (DFT) computations suggest a p<em>K</em><sub>b</sub> that is intermediate between dimeric sodium  diisopropylamide (NaDA) and dimeric sodium hexamethyldisilazide (NaHMDS). Metalations of arenes, epoxides, ketones, hydrazones, alkenes, and alkyl halides show higher reactivities than LDA (<em>k</em><sub>NaPTA/LDA</sub> = 1–30). While the rates of arene metalation are high, the lower p<em>K</em><sub>b</sub> of NaPTA limits the substrates. Metalation of pseudoephedrate-based carboxamides to form disodiated Myers enolates solves several challenging technical problems.
