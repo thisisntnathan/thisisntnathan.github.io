@@ -77,7 +77,7 @@ nav-menu: true
         </header>
         <ul>
             <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b> & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in prearation for the <em>Journal of Natural Products</em>.</li>
-            <li><b>Nathan M. Lui</b>, Max Li & Matt Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Manuscript in preparation</em>.</li>
+            <li><b>Nathan M. Lui</b>, Max Li & Matt Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Manuscript in preparation</em>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a></li>
         </ul>
         <br />
     </div>
