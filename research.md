@@ -88,7 +88,7 @@ nav-menu: true
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity.</h3>
+                    <h3>Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity</h3>
                 </header>
                 <p><b>Nathan M. Lui</b>, Samantha N. MacMillan & David B. Collum</p>
                 <details>
@@ -114,7 +114,7 @@ nav-menu: true
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.</h3>
+                    <h3>Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic</h3>
                 </header>
                 <p>Yun Ma, <b>Nathan M. Lui</b>, Ivan Keresztes, Ryan A. Woltornist & David B. Collum</p>
                 <details>
