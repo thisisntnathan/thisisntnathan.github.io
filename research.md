@@ -127,7 +127,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="https://pubs.acs.org/doi/10.1021/acs.joc.2c01745" target="_blank" class="button"> <em>Journal of Organic Chemistry,</em> 2022, <em>87</em> (21), 14223</a></li>
+                    <li><a href="https://pubs.acs.org/doi/10.1021/acs.joc.2c01745" target="_blank" class="button"> <em>Journal of Organic Chemistry</em> 2022, <em>87</em> (21), 14223</a></li>
                 </ul>
                 <br />
             </div>
