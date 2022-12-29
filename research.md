@@ -101,7 +101,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="https://doi.org/10.1021/jacs.2c09341" target="_blank" class="button"> <em>Journal of the American Chemical Society, in press</em> </a></li>
+                    <li><a href="https://doi.org/10.1021/jacs.2c09341" target="_blank" class="button"> <em>Journal of the American Chemical Society</em> 2022, <em>144</em> (51), 23379 </a></li>
                 </ul>
                 <br />
             </div>
