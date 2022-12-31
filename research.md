@@ -76,7 +76,7 @@ nav-menu: true
             <h3>Working manuscripts & preprints</h3>
         </header>
         <ul>
-            <li><b>Nathan M. Lui</b><sup>*</sup>, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Preprint in submission</em>. | <a href='/assets/MoFlowGAN_WorkingPaper.pdf' target='_blank'>Working paper</a> | <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a> | <sup>*</sup> Corresponding author</li>
+            <li><b>Nathan M. Lui</b><sup>*</sup>, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Preprint in submission</em>. <a href='/assets/MoFlowGAN_WorkingPaper.pdf' target='_blank'>Working paper</a>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a>. <sup>*</sup> Corresponding author</li>
             <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b> & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in preparation for the <em>Journal of Natural Products</em>.</li>
         </ul>
         <br />
