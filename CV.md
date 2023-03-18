@@ -20,6 +20,7 @@ Doctor of Philosophy in Chemistry \| Candidate
 Master of Science in Chemistry \| 2020  
 Advisor: Professor David B. Collum  
 Thesis: Structure and reactivity of organoalkali enolate aggregates  
+Minor: Computer Science  
 
 ----
 
@@ -48,8 +49,9 @@ Take a look at my [research page](/research.html) for more!
 ### The Collum Group
 
 Graduate Research Assistant | 2018 - present  
-**Structure and mechanism of the *N*-acyl Oppolzer sultam enolates**  
-**A new series of hydrocarbon-soluble organosodium bases with wide-ranging synthetic applications**
+**Oppolzer enolates: solution structures, mechanism of alkylation, and the origin of stereoselectivity**  
+**Monosilyl amides: highly soluble organosodium bases with wide-ranging synthetic applications**  
+**MoFlowGAN: a tandem generative model for targeted de novo molecular graph generation** \| *Independent project*  
 
 ----
 
@@ -65,21 +67,31 @@ Undergraduate Researcher | 2016 - 2018
 Undergraduate Researcher | 2016 - 2018  
 **Thermochemiluminescent Peroxide Crystals**  
 **pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films**  
+**Natural product isolation of the extract of *Cleome rupicola* fruits**  
 
 ----
 
 ### The Rivera Lab for Supramolecular Chemistry
 
-NSF-REU Program | Summer 2017  
+NSF–REU Program | Summer 2017  
 **Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**  
+
+<br />
+
+# Industry Experience
+
+### Exscientia
+
+Cheminformatics Intern \| Spring 2023  
+**Improved strategies for consensus scoring of *in silico* drug candidates**
 
 <br />
 
 # Teaching
 
-- **CHEM 7680** \| Advanced Physical Organic Chemistry - Instructor  
-- **CHEM 2510** \| Introduction to Experimental Organic Chemistry - Teaching Assistant  
-- **CHEM 2070** \| General Chemistry I - Teaching Assistant  
+- **CHEM 7650** \| Advanced Physical Organic Chemistry and Reaction Mechanisms  
+- **CHEM 2510** \| Introduction to Experimental Organic Chemistry  
+- **CHEM 2070** \| General Chemistry I  
 
 <br />
 <br />
@@ -87,7 +99,7 @@ NSF-REU Program | Summer 2017
 # Honors and Awards
 
 - **Bauer Scholarship Award** \| 2022  
-<a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Travel award</a> to return to NYU Abu Dhabi to give a reserach talk.  
+<a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Travel award</a> to return to NYU Abu Dhabi to give a research talk.  
 - **ACS Graduate Teaching Award** \| 2020  
 <a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Teaching award</a> given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
 - **NYU Abu Dhabi Conference Travel Grant** \| 2018  
