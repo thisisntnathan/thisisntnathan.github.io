@@ -49,7 +49,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Kinetics and nonlinear curve fitting</h3>
                 </header>
-                <p>Currently in development for Cornell's CHEM 6650 - Advanced Physical Organic Chemistry (Fall '21)
+                <p>Currently in development for Cornell's CHEM 7650 - Advanced Physical Organic Chemistry and Reaction Mechanism (Fall '23)
                 </p>
                 <ul class="actions">
                     <li><a href="" target="_blank" class="button">Coming Soon</a></li>
