@@ -77,7 +77,8 @@ nav-menu: true
         </header>
         <ul>
             <li><b>Nathan M. Lui</b>*, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Preprint in submission</em>. <a href='/assets/MoFlowGAN_WorkingPaper.pdf' target='_blank'>Working paper</a>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a>. *Corresponding author</li>
-            <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b> & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in preparation for the <em>Journal of Natural Products</em>.</li>
+            <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b> & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in review.</li>
+            <li><b>Nathan M. Lui</b> & David B. Collum “Sodiated Oppolzer Enolates: Solution Structures and Mechanisms of Alkylation.” Manuscript in preparation.</li>
         </ul>
         <br />
     </div>
