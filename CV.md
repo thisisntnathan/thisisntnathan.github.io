@@ -8,7 +8,6 @@ nav-menu: true
 ---
 
 <center>
-    <!-- Download my <a href='/assets/NathanMLui_CV.pdf' target='_blank'>cv</a> and <a href='/assets/NathanMLui_resume.pdf' target='_blank'>résumé</a> -->
     <a href='/assets/NathanMLui_CV.pdf' target='_blank'>Download my cv</a>
 </center>
 
