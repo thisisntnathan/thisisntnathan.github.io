@@ -18,13 +18,13 @@ nav-menu: true
         </header>
         <div class="row">
             <div class="6u 12u$(small)">
-                <b>Structure and mechanism of the <em>N</em>-acyl Oppolzer sultam enolates.</b>
+                <b>Oppolzer enolates: solution structures, mechanism of alkylation, and the origin of stereoselectivity.</b>
                 A <em>general</em> method for the asymmetric alkylation of ketones remains, to this day, a mountain unconquered<!--, despite it's vast potential in organic synthesis -->. While photo- and electro-catalytic methods may be the <em>flavor du jour</em>, the asymmetric alkylation of carbonyls was born from the chemistry of enolates and azaenolates through the use of chiral auxiliaries, a method that remains, to this day, <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201703079' target='_blank'>the most effective route to optically pure α-substituted ketones</a>. We are currently studying the structural and mechanistic underpinnings of the alkylations of <em>N</em>-acyl Oppolzer sultam enolates.
             <br />
             <br />
             </div>
             <div class="6u 12u$(small)">
-                <b>A new series of hydrocarbon-soluble organosodium bases with wide-ranging synthetic applications.</b>
+                <b>Monosilyl amides: highly soluble organosodium bases with wide-ranging synthetic applications.</b>
                 Sodium hexamethyldisilazide is the synthetic world's preeminent organosodium reagent owing to its solubility, stability, and wide commercial availability; all reasons for which it has surpassed the performance of other foundational sodium reagents (namely, <em>n</em>-butylsodium and sodium diisopropylamide). However, NaHMDS suffers from its markedly low p<em>K</em><sub>a</sub>. We have recently developed a series of previously unexplored monosilyl sodium amides which possess good hydrocarbon solubility, remarkable stability, and <em>reactivity akin to that of lithium diisopropylamide (LDA)</em>.
             </div>
         </div>
