@@ -50,7 +50,7 @@ Take a look at my [research page](/research.html) for more!
 Graduate Research Assistant | 2018 - present  
 **Oppolzer enolates: solution structures, mechanism of alkylation, and the origin of stereoselectivity**  
 **Monosilyl amides: highly soluble organosodium bases with wide-ranging synthetic applications**  
-**MoFlowGAN: a tandem generative model for targeted de novo molecular graph generation** \| *Independent project*  
+**MoFlowGAN: a tandem generative model for targeted *de novo* molecular graph generation** \| *Independent project*  
 
 ----
 
