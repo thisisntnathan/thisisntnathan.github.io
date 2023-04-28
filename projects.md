@@ -32,7 +32,7 @@ nav-menu: true
                 <header class="major">
                     <h3>The DFT Course</h3>
                 </header>
-                <p> A gentle introduction to computational chemistry and density functional theory <br> designed for advanced undergraduates and beginning graduate student. <br>Provides a walkthrough for setting up calculations with step-by-step examples and exercises.
+                <p> A gentle introduction to computational chemistry and density functional theory designed for advanced undergraduates and beginning graduate student. Provides a walkthrough for setting up calculations with step-by-step examples and exercises.
                 </p>
                 <ul class="actions">
                     <li><a href="https://thisisntnathan.github.io/dftCourse/introduction.html" target="_blank" class="button next">Take a look</a></li>
