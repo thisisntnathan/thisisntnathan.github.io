@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Projects
 layout: landing
 description: 
 image: assets/images/desk.jpg
