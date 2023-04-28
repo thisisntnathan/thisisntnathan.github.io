@@ -14,9 +14,9 @@ nav-menu: true
 <section id="one">
     <div class="inner">
         <header class="major">
-            <h2>Tutorials</h2>
+            <h2>Projects</h2>
         </header>
-        <p>Two tutorials I've been working on.
+        <p>A few personal projects I've been working on in my free time.
         </p>
     </div>
 </section>
