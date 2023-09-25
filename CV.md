@@ -15,11 +15,10 @@ nav-menu: true
 
 ### Cornell University, Ithaca, New York, United States of America
 
-Doctor of Philosophy in Chemistry \| Candidate  
+Doctor of Philosophy in Chemistry \| 2023  
 Master of Science in Chemistry \| 2020  
 Advisor: Professor David B. Collum  
-Thesis: Structure and reactivity of organoalkali enolate aggregates  
-Minor: Computer Science  
+Thesis: Structure-Selectivity Principles Underlying Alkylations of Oppolzer’s Camphorsultam Enolates  
 
 ----
 
@@ -45,12 +44,26 @@ International Baccalaureate Diploma Programme (2014)
 
 Take a look at my [research page](/research.html) for more!
 
+### Eli Lilly and Company
+
+Postdoctoral Scientist \| 2023 - present  
+**Oppolzer enolates: solution structures, mechanism of alkylation, and the origin of stereoselectivity**  
+
+----
+
 ### The Collum Group
 
-Graduate Research Assistant | 2018 - present  
+Graduate Research Assistant \| 2018 - 2023  
 **Oppolzer enolates: solution structures, mechanism of alkylation, and the origin of stereoselectivity**  
 **Monosilyl amides: highly soluble organosodium bases with wide-ranging synthetic applications**  
-**MoFlowGAN: a tandem generative model for targeted *de novo* molecular graph generation** \| *Independent project*  
+**MoFlowGAN: a tandem generative model for targeted molecular graph generation** \| *Independent project*  
+
+----
+
+### Exscientia
+
+Cheminformatics Intern \| Spring 2023  
+**Improving strategies for early-stage scoring, ranking, and selection of *in silico* drug candidates using machine learning**  
 
 ----
 
@@ -76,14 +89,6 @@ NSF–REU Program | Summer 2017
 **Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**  
 
 <br />
-
-# Industry Experience
-
-### Exscientia
-
-Cheminformatics Intern \| Spring 2023  
-**Improved strategies for consensus scoring of *in silico* drug candidates**
-
 <br />
 
 # Teaching
