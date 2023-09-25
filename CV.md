@@ -46,8 +46,8 @@ Take a look at my [research page](/research.html) for more!
 
 ### Eli Lilly and Company
 
-Postdoctoral Scientist \| 2023 - present  
-**Oppolzer enolates: solution structures, mechanism of alkylation, and the origin of stereoselectivity**  
+Postdoctoral Scientist - Reaction Informatics \| 2023 - present  
+**Exploration of mechanistically-aware reaction modeling methods**  
 
 ----
 
