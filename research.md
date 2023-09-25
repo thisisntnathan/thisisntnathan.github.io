@@ -14,7 +14,7 @@ nav-menu: true
 <section id="research">
     <div class="inner">
         <header class="major" id="current">
-        <h2>Current projects</h2>
+        <h2>Graduate projects</h2>
         </header>
         <div class="row">
             <div class="6u 12u$(small)">
@@ -30,7 +30,7 @@ nav-menu: true
         </div>
         <hr>
         <header class="major" id="past">
-        <h3>Past projects</h3>
+        <h3>Undergraduate projects</h3>
         </header>
         <div class="row">
             <div class="6u 12u$(small)">
@@ -76,12 +76,37 @@ nav-menu: true
             <h3>Working manuscripts & preprints</h3>
         </header>
         <ul>
-            <li><b>Nathan M. Lui</b>*, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted <em>de novo</em> molecular generation.” <em>Preprint in submission</em>. <a href='/assets/MoFlowGAN_WorkingPaper.pdf' target='_blank'>Working paper</a>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a>. *Corresponding author</li>
+            <li><b>Nathan M. Lui</b>*, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted molecular generation.” <em>ChemRxiv Preprint</em> <b>2023</b>. <a href='https://doi.org/10.26434/chemrxiv-2023-kwwv3' target='_blank'>Preprint</a>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a>. *Corresponding author</li>
             <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b> & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in review.</li>
-            <li><b>Nathan M. Lui</b> & David B. Collum “Sodiated Oppolzer Enolates: Solution Structures and Mechanisms of Alkylation.” Manuscript in preparation.</li>
         </ul>
         <br />
     </div>
+    <section>
+        <a href="https://doi.org/10.1039/D3QO01021J" target="_blank" class="image">
+            <img src="{% link assets/images/publications/2023_NaOppolzer.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Sodiated Oppolzer enolates: solution structures, mechanism of alkylation, and origin of stereoselectivity</h3>
+                </header>
+                <p><b>Nathan M. Lui</b> & David B. Collum</p>
+                <details>
+                    <summary class='accolade'>Accolades</summary>
+                    Featured in the 2023 HOT articles collection of <em>Organic Chemistry Froniters</em><br>
+                </details>
+                <details>
+                    <summary class='abstract'>Abstract</summary>
+                    NMR spectroscopic studies reveal camphorsultam-derived sodium enolates known as Oppolzer enolates reside as monomers in neat THF and THF/HMPA solutions and as dimers in toluene when solvated by <em>N,N,N′,N′</em>-tetramethylethylenediamine (TMEDA) and <em>N,N,N′,N′′,N′′</em>em>-pentamethyldiethylenediamine (PMDTA). Density functional theory (DFT) computations attest to the solvation numbers. Rate studies show analogy with previously studied lithiated Oppolzer enolates in which alkylation occurs through non-chelated solvent-separated ion pairs. The origins of the selectivity trace to transition structures in which the alkylating agent is guided to the exo face of the camphor owing to stereoelectronic preferences imparted by the sultam sulfonyl moiety. Marked secondary-shell solvation effects are gleaned from the rate studies.
+                </details>
+                <br />
+                <ul class="actions">
+                    <li><a href="https://doi.org/10.1039/D3QO01021J" target="_blank" class="button"> <em>Organic Chemistry Froniters</em> 2023, <em>Advance Article</em>.</a></li>
+                </ul>
+                <br />
+            </div>
+        </div>
+    </section>
     <section>
         <a href="https://doi.org/10.1021/jacs.2c09341" target="_blank" class="image">
             <img src="{% link assets/images/publications/2022_LiOppolzer.png %}" alt="" data-position="center center" />
