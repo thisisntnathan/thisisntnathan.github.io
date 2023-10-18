@@ -66,7 +66,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Generative Adverserial Networks Demo</h3>
                 </header>
-                <p> GANs Demo originally developed for Cornell's CS 6784: Advanced Topics in Machine Learning - Deep Learning (Fall 2022). Come with us as we train some netwokrs to generate pictures of cats exploring the effects of different GAN variants. We also provide an example of what happens when you try to train a GAN without enough data!
+                <p> Come with us as we train some netwokrs to generate pictures of cats exploring the effects of different GAN variants. We also provide an example of what happens when you try to train a GAN without enough data!
                 </p>
                 <ul class="actions">
                     <li><a href="https://colab.research.google.com/drive/1qgzFJJMkgNjBxhQJs3cLhfCjTVWmdaAw?usp=sharing" target="_blank" class="button">Open in Colab</a></li>
