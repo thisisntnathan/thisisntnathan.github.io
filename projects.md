@@ -49,7 +49,7 @@ nav-menu: true
                 <header class="major">
                     <h3>MoFlowGAN</h3>
                 </header>
-                <p> A tandem normalizing flow model that can also be trained on both adversarial and reward objectives.
+                <p> A tandem normalizing flow model that non-autoregressively builds molecular graphs. A hybrid training objective trades off likelihood maximization with adversarial and reward policy objectives to bias the generator towards drug-like molecules.
                 </p>
                 <ul class="actions">
                     <li><a href="https://colab.research.google.com/github/thisisntnathan/MoFlowGAN/blob/main/evaluate.ipynb" target="_blank" class="button">Open in Colab</a></li>
