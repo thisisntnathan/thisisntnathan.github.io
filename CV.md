@@ -132,7 +132,7 @@ Take a look at the research page for a full list of my [academic publications](/
         <ul>
             <li>&#127468;&#127463; English (Native)</li>
             <li>&#127469;&#127472; Cantonese chinese (Near-native)</li>
-            <li>&#127464;&#127477; French (Intermediate)</li>
+            <li>&#127467;&#127479; French (Intermediate)</li>
             <li>&#127464;&#127475; Mandarin chinese (Elementary)</li>
         </ul>
         <br />
