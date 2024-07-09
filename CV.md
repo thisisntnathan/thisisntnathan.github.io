@@ -163,13 +163,3 @@ Take a look at the research page for a full list of my [academic publications](/
 </div>
 
 <br />
-<br />
-
-# Leadership
-
-- **Project Team Lead** • ACS International Student Chapter at NYU Abu Dhabi \| August 2017 - May 2018  
-- **President** • ACS International Student Chapter at NYU Abu Dhabi \| August 2017 - May 2018  
-- **Financial Director and Founding Board Member** • Love Local Abu Dhabi, Abu Dhabi  \| July 2014 - May 2018  
-- **Class of 2018 Representative** • The 2010 Fund Committee at NYU Abu Dhabi \| September 2014 - June 2016  
-
-<br />
