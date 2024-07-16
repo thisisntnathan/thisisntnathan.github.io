@@ -30,13 +30,11 @@ Thesis: Conserved loops mediate the active site microenvironment and determine t
 <!-- Specialization: Biochemistry   -->
 Minor: Urban Studies  
 
+<!-- ### UWC-USA, Montezuma, NM, USA
+
+International Baccalaureate Diploma \| 2014    -->
+
 <em>Transcripts and coursework available upon request.</em>
-
-<!--
-### UWC-USA, Montezuma, NM, USA
-
-International Baccalaureate Diploma Programme (2014) 
--->
 
 <br />
 
@@ -47,7 +45,7 @@ Take a look at my [research page](/research.html) for more!
 ### Eli Lilly and Company
 
 Postdoctoral Scientist - Reaction Informatics \| 2023 - present  
-**A deep learning approach to mechanistically-aware reaction product prediction**  
+**Machine learning approaches to template-free chemical reaction product prediction for small-molecule library enumeration**  
 
 ----
 
@@ -127,8 +125,10 @@ Take a look at the research page for a full list of my [academic publications](/
 
 # Leadership
 
-- **Senior Graduate Student** • The Collum Group at Cornell Chemistry \| Jun 2021 - Jul 2023  
-- **Project Team Lead** • Cornell College of Computing and Information Sciences \| Aug 2022 - Jan 2023  
+- **Indianapolis Chair** • Lilly Postdoctoral Scientists \| June 2024 - Present
+- **Organizational Lead** • 2024 Lilly Postdoc Summit Planning Committee \| March 2024 - Present
+- **Senior Graduate Student** • The Collum Group at Cornell Chemistry \| June 2021 - July 2023  
+- **Project Team Lead** • Cornell College of Computing and Information Sciences \| August 2022 - January 2023  
 - **President** • ACS International Student Chapter at NYU Abu Dhabi \| August 2017 - May 2018  
 - **Financial Director and Founding Board Member** • Love Local Abu Dhabi, Abu Dhabi  \| July 2014 - May 2018  
 - **Class of 2018 Representative** • The 2010 Fund Committee at NYU Abu Dhabi \| September 2014 - June 2016
