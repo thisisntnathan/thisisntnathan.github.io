@@ -2,14 +2,14 @@
 title: Nathan
 subtitle: M. Lui
 email: nathanlui95@gmail.com
-description: Physical organic chemist by day, <br>flâneur, photographer, and future masterchef by night
+description: Computational chemist by day, <br>flâneur, foodie, and future masterchef by night
 # baseurl: # the subpath of your site, e.g. /blog
 # url: # the base hostname & protocol for your site
 author: Nathan M. Lui
-street_address: Baker Lab, Cornell University
-city: Ithaca
-state: New York
-zip_code: 14850
+street_address:
+city: Indianapolis
+state: Indiana
+zip_code: 46204
 country: United States of America
 
 # homepage tiles
