@@ -86,7 +86,7 @@ nav-menu: true
                 <p>A place for me to organize my thoughts. Online resources and interesting papers about chemistry, data science, programming, math, etc...
                 </p>
                 <ul class="actions">
-                    <li><a href="" target="_blank" class="button">Down the rabbit hole</a></li>
+                    <li><a href="https://thisisntnathan.github.io/memorypalace/" target="_blank" class="button next">Down the rabbit hole</a></li>
                 </ul>
                 <br />
             </div>
@@ -95,7 +95,7 @@ nav-menu: true
 </section>
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
     <div class="inner">
         <header class="major">
             <h2>Best practices</h2>
@@ -103,4 +103,4 @@ nav-menu: true
         <p>Some things I've learned along the way... <a href='/thoughts/best.html'>Read more</a>
         </p>
     </div>
-</section>
+</section> -->
