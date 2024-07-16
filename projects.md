@@ -76,18 +76,19 @@ nav-menu: true
     </section>
     <section>
         <a href="" target="_blank" class="image">
-            <img src="{% link assets/images/teaching/chemical-kinetics.jpg %}" alt="" data-position="top center" />
+            <img src="{% link assets/images/teaching/memory_palace.jpg %}" alt="" data-position="top center" />
         </a>
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Kinetics and nonlinear curve fitting</h3>
+                    <h3>The Memory Palace</h3>
                 </header>
-                <p>Currently in development for Cornell's CHEM 7650 - Advanced Physical Organic Chemistry and Reaction Mechanism (Fall '23)
+                <p>A place for me to organize my thoughts. Online resources and interesting papers about chemistry, data science, programming, math, etc...
                 </p>
                 <ul class="actions">
-                    <li><a href="" target="_blank" class="button">Coming Soon</a></li>
+                    <li><a href="" target="_blank" class="button">Down the rabbit hole</a></li>
                 </ul>
+                <br />
             </div>
         </div>
     </section>
