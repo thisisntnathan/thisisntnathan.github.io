@@ -13,8 +13,18 @@ nav-menu: true
 <!-- Research -->
 <section id="research">
     <div class="inner">
-        <header class="major" id="current">
-        <h2>Graduate projects</h2>
+    <header class="major" id="current">
+        <h2>Current projects</h2>
+        </header>
+        <div class="row">
+            <div class="12u 12u$(small)">
+                <b>A chemically-aware approach to template-free reaction product prediction</b>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tellus dolor, dapibus quis augue quis, vulputate interdum odio. Fusce scelerisque egestas diam. In elementum interdum quam, dignissim scelerisque ligula pharetra quis. Maecenas aliquet lectus in fermentum tincidunt. Vestibulum eleifend ultrices leo, vel convallis ipsum imperdiet in. Aliquam lacinia sollicitudin mauris. Aenean est sapien, pellentesque eget quam eu, viverra tincidunt felis. Curabitur facilisis ultricies justo, ac pulvinar felis congue sed. Nam luctus nisl ac massa feugiat, sit amet vehicula ante hendrerit. In scelerisque id sapien et mollis. Aliquam ut tellus sem. wdwdwd
+            </div>
+        </div>
+        <hr>
+        <header class="major" id="past">
+        <h3>Graduate projects</h3>
         </header>
         <div class="row">
             <div class="6u 12u$(small)">
@@ -76,11 +86,33 @@ nav-menu: true
             <h3>Working manuscripts & preprints</h3>
         </header>
         <ul>
+            <li>Qiulin You, Yun Ma, Ryan A. Woltornist, <b>Nathan M. Lui</b>, Jesse A. Spivey, Ivan Keresztes, and David B. Collum "Sodium Alkyl(trimethylsilyl)amides: Substitutent- and Solvent-Dependent Solution Structures and Reactivities." Manuscript in review.</li>
             <li><b>Nathan M. Lui</b>*, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted molecular generation.” <em>ChemRxiv Preprint</em> <b>2023</b>. <a href='https://doi.org/10.26434/chemrxiv-2023-kwwv3' target='_blank'>Preprint</a>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a>. *Corresponding author</li>
-            <li>Yumi, Gambrill, Patrick Commins, Stefan Schramm, Shaikha S.AlNeyadi, <b>Nathan M. Lui</b> & Panče Naumov “Natural product isolation of the extract of <em>Cleome rupicola</em> fruits exhibiting antioxidant activity.” Manuscript in review.</li>
         </ul>
         <br />
     </div>
+    <section>
+        <a href="https://doi.org/10.1021/jacs.2c09341" target="_blank" class="image">
+            <img src="{% link assets/images/publications/2024_NatProds.jpg %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Natural Product Isolation of the Extract of <em>Cleome rupicola</em> Fruits Exhibiting Antioxidant Activity</h3>
+                </header>
+                <p>Yumi Gambrill, Patrick Commins, Stefan Schramm, <b>Nathan M. Lui</b>, Shaikha S. AlNeyadi, Panče Naumov</p>
+                <details>
+                    <summary class='abstract'>Abstract</summary>
+                    Cataracts are the leading cause of blindness worldwide, however, there is currently no drug-based treatment. Plants that exhibit antioxidant properties have shown promising anticataract effects, likely because they supplement the activity of glutathione, the major antioxidant in lens cells. An extract of Cleome rupicola, a desert plant found in the United Arab Emirates, has traditionally been used to treat cataracts. Phytochemical screening of the aqueous extract established the presence of flavonoids, tannins, steroid derivatives, and reducing sugars. Fractioning of extracts from the fruits using high-performance liquid chromatography (HPLC) yielded the isolation of the anthelmintic compound cleomin, and its structure was confirmed using mass spectrometry (MS) and nuclear magnetic resonance (NMR) spectroscopy.
+                </details>
+                <br />
+                <ul class="actions">
+                    <li><a href="https://doi.org/10.1002/cbdv.202301382" target="_blank" class="button"> <em>Chemistry & Biodiversity</em> 2024, <em>21</em> (4), e202301382 </a></li>
+                </ul>
+                <br />
+            </div>
+        </div>
+    </section>
     <section>
         <a href="https://doi.org/10.1039/D3QO01021J" target="_blank" class="image">
             <img src="{% link assets/images/publications/2023_NaOppolzer.png %}" alt="" data-position="center center" />
