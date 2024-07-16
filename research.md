@@ -132,7 +132,7 @@ nav-menu: true
                 </details>
                 <br />
                 <ul class="actions">
-                    <li><a href="https://doi.org/10.1039/D3QO01021J" target="_blank" class="button"> <em>Organic Chemistry Froniters</em> 2023, <em>10</em> 4750.</a></li>
+                    <li><a href="https://doi.org/10.1039/D3QO01021J" target="_blank" class="button"> <em>Organic Chemistry Froniters</em> 2023, <em>10</em>, 4750</a></li>
                 </ul>
                 <br />
             </div>
