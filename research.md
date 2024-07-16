@@ -18,8 +18,7 @@ nav-menu: true
         </header>
         <div class="row">
             <div class="12u 12u$(small)">
-                <b>A chemically-aware approach to template-free reaction product prediction</b>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tellus dolor, dapibus quis augue quis, vulputate interdum odio. Fusce scelerisque egestas diam. In elementum interdum quam, dignissim scelerisque ligula pharetra quis. Maecenas aliquet lectus in fermentum tincidunt. Vestibulum eleifend ultrices leo, vel convallis ipsum imperdiet in. Aliquam lacinia sollicitudin mauris. Aenean est sapien, pellentesque eget quam eu, viverra tincidunt felis. Curabitur facilisis ultricies justo, ac pulvinar felis congue sed. Nam luctus nisl ac massa feugiat, sit amet vehicula ante hendrerit. In scelerisque id sapien et mollis. Aliquam ut tellus sem. wdwdwd
+                <b>Machine learning approaches to template-free chemical reaction product prediction for small-molecule library enumeration</b>
             </div>
         </div>
         <hr>
