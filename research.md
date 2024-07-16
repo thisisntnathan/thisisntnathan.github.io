@@ -99,7 +99,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Natural Product Isolation of the Extract of <em>Cleome rupicola</em> Fruits Exhibiting Antioxidant Activity</h3>
                 </header>
-                <p>Yumi Gambrill, Patrick Commins, Stefan Schramm, <b>Nathan M. Lui</b>, Shaikha S. AlNeyadi, Panče Naumov</p>
+                <p>Yumi Gambrill, Patrick Commins, Stefan Schramm, <b>Nathan M. Lui</b>, Shaikha S. AlNeyadi & Panče Naumov</p>
                 <details>
                     <summary class='abstract'>Abstract</summary>
                     Cataracts are the leading cause of blindness worldwide, however, there is currently no drug-based treatment. Plants that exhibit antioxidant properties have shown promising anticataract effects, likely because they supplement the activity of glutathione, the major antioxidant in lens cells. An extract of Cleome rupicola, a desert plant found in the United Arab Emirates, has traditionally been used to treat cataracts. Phytochemical screening of the aqueous extract established the presence of flavonoids, tannins, steroid derivatives, and reducing sugars. Fractioning of extracts from the fruits using high-performance liquid chromatography (HPLC) yielded the isolation of the anthelmintic compound cleomin, and its structure was confirmed using mass spectrometry (MS) and nuclear magnetic resonance (NMR) spectroscopy.
