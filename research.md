@@ -85,11 +85,32 @@ nav-menu: true
             <h3>Working manuscripts & preprints</h3>
         </header>
         <ul>
-            <li>Qiulin You, Yun Ma, Ryan A. Woltornist, <b>Nathan M. Lui</b>, Jesse A. Spivey, Ivan Keresztes, and David B. Collum "Sodium Alkyl(trimethylsilyl)amides: Substitutent- and Solvent-Dependent Solution Structures and Reactivities." Manuscript in review.</li>
             <li><b>Nathan M. Lui</b>*, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted molecular generation.” <em>ChemRxiv Preprint</em> <b>2023</b>. <a href='https://doi.org/10.26434/chemrxiv-2023-kwwv3' target='_blank'>Preprint</a>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a>. *Corresponding author</li>
         </ul>
         <br />
     </div>
+    <section>
+        <a href="https://doi.org/10.1021/jacs.4c10836" target="_blank" class="image">
+            <img src="{% link assets/images/publications/2024_monosilyl.jpeg %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Sodium Alkyl(trimethylsilyl)amides: Substituent- and Solvent-dependent Solution Structures and Reactivities</h3>
+                </header>
+                <p>Qiulin You, Yun Ma, Ryan A. Woltornist, <b>Nathan M. Lui</b> , Jesse A. Spivey, Ivan Keresztes & David B. Collum</p>
+                <details>
+                    <summary class='abstract'>Abstract</summary>
+                    The preparation of sodium isopropyl(trimethylsilyl)amide (NaPTA), sodium (1-phenylethyl)(trimethylsilyl)amide (NaPETA), sodium <em>tert</em>-butyl(trimethylsilyl)amide (NaBTA), and isotopologues [<sup>15</sup>N]NaPTA and [<sup>15</sup>N]NaBTA are described. Solution structural studies using a combination of <sup>29</sup>Si NMR spectroscopy, the Method of Continuous Variations, and density functional theory computations provided insights into aggregation and solvation in a range of solvents including toluene, <em>N,N</em>-dimethylethylamine, triethylamine, MTBE, THF, 1,2-dimethoxyethane (DME), diglyme, <em>N,N,N',N'</em>-tetramethylethylenediamine (TMEDA), <em>N,N,N',N'</em>-tetramethylcyclohexanediamine (TMCDA), <em>N,N,N',N',N'</em>-pentamethyldiethylenetriamine (PMDTA). 12-crown-4, 15-crown-5, and 18-crown-6 revealed solvent- and substituent-dependent dimer–monomer mixtures with affiliated solvation numbers. Complexation of the three crown ethers documented both crown and substituent dependencies. Qualitative studies of reactivity showed a variety of reactions of NaPETA. Aminolysis of methyl benzoate with dialkylamines mediated by NaPTA afforded high yields of benzamides. Quantitative rate studies of aminolysis of methyl benzoate by NaPTA revealed a 47,000-fold range of rates. Detailed rate studies in toluene and THF showed dimer-based mechanisms. The role of primary- and secondary-shell solvation by THF is discussed, including nuances of methods used to separate the two contributions. PMDTA-solvated NaPTA monomer reacts as a monomer whereas <em>bis</em>-diglyme solvated monomer reacts as a dimer. Rate studies exploring the structure–reactivity correlations of the three crown ethers show mono- and <em>bis</em>-crown-based pathways in which 15-crown-5─the crown ether often said to be of choice for sodium─was decidedly inferior as an accelerant.
+                </details>
+                <br />
+                <ul class="actions">
+                    <li><a href="https://doi.org/10.1021/jacs.4c10836" target="_blank" class="button"> <em>Journal of the American Chemical Society</em> 2024, <em>146</em> (44), 30397</a></li>
+                </ul>
+                <br />
+            </div>
+        </div>
+    </section>
     <section>
         <a href="https://doi.org/10.1021/jacs.2c09341" target="_blank" class="image">
             <img src="{% link assets/images/publications/2024_NatProds.jpg %}" alt="" data-position="center center" />
@@ -320,6 +341,7 @@ nav-menu: true
         Presentations at academic conferences and seminars
         <br /><br />
         <ul>
+            <li><b>2024 Lilly Postdoc Summit</b> | Indianapolis, IN, USA <br>“A deep learning apporach to mechanism-aware reaction product prediction." Spotlight talk and poster on 10/11 Oct 2024.</li>
             <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of alkylation of Oppolzer’s camphorsultam-derived enolates." Talk on 21 Aug 2022.</li>
             <li><b>Graduate and Postdoc Spring Seminar Series</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar on 15 Apr 2022.</li>
             <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes, France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight on 29 May 2018.</li>
