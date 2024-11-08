@@ -18,7 +18,7 @@ nav-menu: true
         </header>
         <div class="row">
             <div class="12u 12u$(small)">
-                <b>Machine learning approaches to template-free chemical reaction product prediction for small-molecule library enumeration</b>
+                <b>Transfer learning approaches for reaction product prediction in the low-data regime</b>
             </div>
         </div>
         <hr>
