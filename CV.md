@@ -44,16 +44,16 @@ Take a look at my [research page](/research.html) for more!
 
 ### Eli Lilly and Company
 
-Postdoctoral Scientist - Reaction Informatics \| 2023 - present  
-**Machine learning approaches to template-free chemical reaction product prediction for small-molecule library enumeration**  
+Postdoctoral Scientist, Exploratory Discovery AI \| 2023 - present  
+**Transfer learning approaches for reaction product prediction in the low-data regime**  
 
 ----
 
-### The Collum Group
+### Cornell University
 
-Graduate Research Assistant \| 2018 - 2023  
+The Collum Group \| Graduate Research Assistant and Ph.D. Candidate \| 2018 - 2023  
 **Oppolzer enolates: solution structures, mechanism of alkylation, and the origin of stereoselectivity**  
-**Monosilyl amides: highly soluble organosodium bases with wide-ranging synthetic applications**  
+**Alkyl silazides: highly soluble organosodium bases with broad synthetic applications**  
 **MoFlowGAN: a tandem generative model for property-targeted molecular graph generation** \| *Independent project*  
 
 ----
@@ -61,9 +61,28 @@ Graduate Research Assistant \| 2018 - 2023
 ### Exscientia
 
 Cheminformatics Intern \| Spring 2023  
-**Improving strategies for early-stage scoring, ranking, and selection of *in silico* drug candidates using machine learning**  
+**Identifying data-driven MPO weights for computational drug design**  
 
 ----
+
+### New York Univesity Abu Dhabi
+
+The Rabeh Lab \| Undergraduate Researcher \| 2016 - 2018  
+**Beetle luciferases with naturally red- and blue-shifted emission**  
+
+Naumov Smart Materials Lab \| Undergraduate Researcher \| 2016 - 2018  
+**Thermochemiluminescent Peroxide Crystals**  
+**pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films**  
+**Natural product isolation of the extract of *Cleome rupicola* fruits**  
+
+----
+
+### University of Puerto Rico at Río Piedras
+
+The Rivera Lab \| NSF–REU Student \| Summer 2017  
+**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**  
+
+<!-- ----
 
 ### The Rabeh Lab
 
@@ -84,7 +103,7 @@ Undergraduate Researcher | 2016 - 2018
 ### The Rivera Lab for Supramolecular Chemistry
 
 NSF–REU Program | Summer 2017  
-**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**  
+**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**   -->
 
 <br />
 <br />
@@ -126,7 +145,7 @@ Take a look at the research page for a full list of my [academic publications](/
 # Leadership
 
 - **Indianapolis Chair** • Lilly Postdoctoral Scientists \| June 2024 - Present
-- **Organizational Lead** • 2024 Lilly Postdoc Summit Planning Committee \| March 2024 - Present
+- **Organizational Lead** • 2024 Lilly Postdoc Summit Planning Committee \| March 2024 - October 2024
 - **Senior Graduate Student** • The Collum Group at Cornell Chemistry \| June 2021 - July 2023  
 - **Project Team Lead** • Cornell College of Computing and Information Sciences \| August 2022 - January 2023  
 - **President** • ACS International Student Chapter at NYU Abu Dhabi \| August 2017 - May 2018  
