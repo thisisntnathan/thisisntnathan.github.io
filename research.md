@@ -81,10 +81,11 @@ nav-menu: true
         <p>Peer-reviewed academic papers. Go to <a href='https://scholar.google.com/citations?user=oTX1IDAAAAAJ&hl=en&oi=ao' target="_blank">my Google Scholar page</a> for citation data.
         </p>
         <hr>
-        <header class="major">
+        <header id="manuscripts" class="major">
             <h3>Working manuscripts & preprints</h3>
         </header>
         <ul>
+            <li><b>Nathan M. Lui</b>*, Pushkar G. Ghanekar, Matthew A. Schiffler & W. Dean Harman “Transfer learning approaches for reaction product prediction in the low-data regime.” <em>Manuscript in preparation</em> *Corresponding author</li>
             <li><b>Nathan M. Lui</b>*, Max Li & Matthew Ford “MoFlowGAN: Combining adversarial and likelihood learning to enable targeted molecular generation.” <em>ChemRxiv Preprint</em> <b>2023</b>. <a href='https://doi.org/10.26434/chemrxiv-2023-kwwv3' target='_blank'>Preprint</a>. <a href='https://github.com/thisisntnathan/MoFlowGAN' target="_blank_">Code</a>. *Corresponding author</li>
         </ul>
         <br />
@@ -338,21 +339,32 @@ nav-menu: true
         <header class="major">
             <h2>Presentations</h2>
         </header>
-        Presentations at academic conferences and seminars
-        <br /><br />
+        <header class="minor">
+            <h3>Upcomming presentations</h3>
+        </header>
         <ul>
-            <li><b>2024 Lilly Postdoc Summit</b> | Indianapolis, IN, USA <br>“A deep learning apporach to mechanism-aware reaction product prediction." Spotlight talk and poster on 10/11 Oct 2024.</li>
-            <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of alkylation of Oppolzer’s camphorsultam-derived enolates." Talk on 21 Aug 2022.</li>
-            <li><b>Graduate and Postdoc Spring Seminar Series</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar on 15 Apr 2022.</li>
-            <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes, France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight on 29 May 2018.</li>
-            <li><b>American Chemical Society National Meeting</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix presentation on 19 Mar 2018.</li>
-            <li><b>Environmental & Materials Science Symposium</b> | Abu Dhabi, UAE<br>“Bioluminescence in Nanotechnology: Characterization of two novel luciferases for applications in emerging nanobiotechnologies.” <br>Presentation on 6 Dec 2017.</li>
-            <li><b>American Chemical Society Asia-Pacific International Chapters Conference</b> | Jeju Island, South Korea<br>“CellPlus: Paving the way for artificial organelles by the enzyme-instructed self-assembly of guanosine derivatives.” Presentation on 6 Nov 2017.</li>
-            <li><b>Middle East Molecular Biology Sources (MEMBS) Annual Congress</b> | Abu Dhabi, UAE<br>“Structural insight into the mechanism of a blue-shifted green-emitting luciferase.” Presentation on 3 Nov 2017.</li>
-            <li><b>NSF-REU: PR-CLIMB symposium</b> | San Juan, Puerto Rico, USA <br>“CellPlus: Paving the way for artificial organelles by the enzyme-instructed self-assembly of guanosine derivatives.” Presentation on 27 July 2017.</li>
-            <li><b>5th Annual UAE Undergraduate Research Competition</b> | Abu Dhabi, UAE <br>“Humidity responsive luminescent switching in oxyluciferin-agarose thin films as a basis for optical humidity sensors.” <br>Oral on 8 May 2017. Abu Dhabi, UAE.</li>
-            <li><b>9th Annual International Workshop on Advanced Materials</b> | Ras Al Khamiah, UAE<br>“Humidity responsive luminescent switching in oxyluciferin-agarose thin films as a basis for optical humidity sensors.” <br>Presentation on 20 Feb 2017.</li>
-            <li><b>2nd Annual Crystal Growth Symposium</b> | Shanghai, China<br>“Crystallization of NiSO<sub>4</sub> polymorphs: The importance of temperature, saturation, and solvent polarity in crystallization” <br>Oral presentation on 4 May 2016.</li>
+            <li><b>American Chemical Society National Meeting</b> | San Diego, SD, USA <br>“Transfer learning approaches for reaction product prediction in the low-data regime." Oral presentation, Mar 2025.</li>
+            <li><b>Computer Aided Drug Discovery Gordon Reserach Conference</b> | Portland, ME, USA <br><em>Title TBD</em>, Poster, July 2025.</li>
+        </ul>
+        <br /><br />
+        <header class="minor">
+            <h3>Conference presentations and academic seminars</h3>
+        </header>
+        <ul>
+            <li><b>Lilly Postdoc Summit</b> | Indianapolis, IN, USA <br>“A deep learning approach to mechanism-aware reaction product prediction." Spotlight talk and poster, 10-11 Oct 2024.</li>
+            <li><b>Lilly Global Computational Chemistry Summit</b> | San Diego, CA, USA <br>“A deep learning approach to mechanism-aware reaction product prediction." Research highlight and selected poster, 23 Sep 2024.</li>
+            <li><b>Cornell University</b> | Ithaca, NY, USA <br>“Structure-selectivity principles underlying the alkylation of Oppolzer's camphorsultam enolates." Doctoral dissertation defense, 7 July 2024.</li>
+            <li><b>American Chemical Society National Meeting</b> | Chicago, IL, USA <br>“Structure and mechanism of the alkylation of Oppolzer’s camphorsultam-derived enolates." Selected talk, 21 Aug 2022.</li>
+            <li><b>Graduate and Postdoc Spring Seminar Series</b> | Ithaca, NY, USA <br>“Structure and Mechanism of Lithium Enolates of the Oppolzer Sultam.” Seminar, 15 Apr 2022.</li>
+            <li><b>20th International Symposium on Bioluminescence and Chemiluminescence</b> | Nantes, France <br>“The active site microenvironment determines the color of emission in beetle luciferases.” Research spotlight talk and selected poster, 29 May 2018.</li>
+            <li><b>American Chemical Society National Meeting</b> | New Orleans, LA, USA<br>“Approaching the color problem of bioluminescence: Contributions of the active site microenvironment to the emission of red and green luciferases.” Sci-Mix poster presentation, 19 Mar 2018.</li>
+            <li><b>Environmental & Materials Science Symposium</b> | Abu Dhabi, UAE<br>“Bioluminescence in Nanotechnology: Characterization of two novel luciferases for applications in emerging nanobiotechnologies.” Poster presentation, 6 Dec 2017.</li>
+            <li><b>American Chemical Society Asia-Pacific International Chapters Conference</b> | Jeju Island, South Korea<br>“CellPlus: Paving the way for artificial organelles by the enzyme-instructed self-assembly of guanosine derivatives.” Poster presentation, 6 Nov 2017.</li>
+            <li><b>Middle East Molecular Biology Sources (MEMBS) Annual Congress</b> | Abu Dhabi, UAE<br>“Structural insight into the mechanism of a blue-shifted green-emitting luciferase.” Selected oral presentation, 3 Nov 2017.</li>
+            <li><b>NSF-REU: PR-CLIMB symposium</b> | San Juan, Puerto Rico, USA <br>“CellPlus: Paving the way for artificial organelles by the enzyme-instructed self-assembly of guanosine derivatives.” Poster presentation, 27 July 2017.</li>
+            <li><b>5th Annual UAE Undergraduate Research Competition</b> | Abu Dhabi, UAE <br>“Humidity responsive luminescent switching in oxyluciferin-agarose thin films as a basis for optical humidity sensors.” Selected oral presentation, 8 May 2017. Abu Dhabi, UAE.</li>
+            <li><b>9th Annual International Workshop on Advanced Materials</b> | Ras Al Khamiah, UAE<br>“Humidity responsive luminescent switching in oxyluciferin-agarose thin films as a basis for optical humidity sensors.” Poster presentation, 20 Feb 2017.</li>
+            <li><b>2nd Annual Crystal Growth Symposium</b> | Shanghai, China<br>“Crystallization of NiSO<sub>4</sub> polymorphs: The importance of temperature, saturation, and solvent polarity in crystallization” Oral presentation, 4 May 2016.</li>
         </ul>
     </div>
 </section>
