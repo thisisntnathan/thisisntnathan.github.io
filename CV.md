@@ -8,7 +8,7 @@ nav-menu: true
 ---
 
 <center>
-    <a href='/assets/NathanMLui_CV.pdf' target='_blank'>Download my cv</a>
+    <a href='/assets/NathanMLui_vitae.pdf' target='_blank'>vitæ</a> | <a href='/assets/NathanMLui_cv.pdf' target='_blank'>resumé</a>
 </center>
 
 # Education
@@ -27,14 +27,15 @@ Thesis: Structure-Selectivity Principles Underlying Alkylations of Oppolzer’s 
 Bachelor of Science in Chemistry \| 2018  
 Advisors: Professors Wael Rabeh and Panče Naumov  
 Thesis: Conserved loops mediate the active site microenvironment and determine the color of bioluminescence in beetle luciferases  
-<!-- Specialization: Biochemistry   -->
+Specialization: Biochemistry  
 Minor: Urban Studies  
 
-<!-- ### UWC-USA, Montezuma, NM, USA
+----
 
-International Baccalaureate Diploma \| 2014    -->
+### UWC-USA, Montezuma, NM, USA
 
-<em>Transcripts and coursework available upon request.</em>
+International Baccalaureate Diploma \| 2014   
+
 
 <br />
 
@@ -58,7 +59,7 @@ The Collum Group \| Graduate Research Assistant and Ph.D. Candidate \| 2018 - 20
 
 ----
 
-### Exscientia
+### Exscientia (acquired by Recursion Pharmaceuticals)
 
 Cheminformatics Intern \| Spring 2023  
 **Identifying data-driven MPO weights for computational drug design**  
@@ -71,7 +72,7 @@ The Rabeh Lab \| Undergraduate Researcher \| 2016 - 2018
 **Beetle luciferases with naturally red- and blue-shifted emission**  
 
 Naumov Smart Materials Lab \| Undergraduate Researcher \| 2016 - 2018  
-**Thermochemiluminescent Peroxide Crystals**  
+**Thermochemiluminescent peroxide crystals**  
 **pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films**  
 **Natural product isolation of the extract of *Cleome rupicola* fruits**  
 
@@ -82,47 +83,30 @@ Naumov Smart Materials Lab \| Undergraduate Researcher \| 2016 - 2018
 The Rivera Lab \| NSF–REU Student \| Summer 2017  
 **Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**  
 
-<!-- ----
+<br />
+<br />
 
-### The Rabeh Lab
 
-Undergraduate Researcher | 2016 - 2018  
-**Beetle luciferases with naturally red- and blue-shifted emission**  
+# Leadership and Outreach
 
-----
-
-### Naumov Smart Materials Lab
-
-Undergraduate Researcher | 2016 - 2018  
-**Thermochemiluminescent Peroxide Crystals**  
-**pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films**  
-**Natural product isolation of the extract of *Cleome rupicola* fruits**  
-
-----
-
-### The Rivera Lab for Supramolecular Chemistry
-
-NSF–REU Program | Summer 2017  
-**Hierarchical assembly of supramolecular G-quadruplexes via enzyme instructed self-assembly**   -->
+- **Indianapolis Chair** • Lilly Postdoctoral Scientists \| June 2024 - Present
+- **Lead Organizer** • 2024 Lilly Postdoc Summit Planning Committee \| March 2024 - October 2024
+- **Senior Graduate Student** • The Collum Group at Cornell Chemistry \| June 2021 - July 2023  
+- **Project Team Lead** • Cornell College of Computing and Information Sciences \| August 2022 - January 2023  
+- **President** • ACS International Student Chapter at NYU Abu Dhabi \| August 2017 - May 2018  
+- **Financial Director and Founding Board Member** • Love Local Abu Dhabi, Abu Dhabi  \| July 2014 - May 2018  
+- **Class of 2018 Representative** • The 2010 Fund Committee at NYU Abu Dhabi \| September 2014 - June 2016
 
 <br />
 <br />
 
-# Teaching
-
-- **CHEM 7650** \| Advanced Physical Organic Chemistry and Reaction Mechanisms  
-- **CHEM 2510** \| Introduction to Experimental Organic Chemistry  
-- **CHEM 2070** \| General Chemistry I  
-
-<br />
-<br />
 
 # Honors and Awards
 
 - **Bauer Scholarship Award** \| 2022  
-<a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Travel award</a> to return to NYU Abu Dhabi to give a research talk.  
+[Travel award](https://chemistry.cornell.edu/grad-awards) to return to NYU Abu Dhabi to give a research talk.  
 - **ACS Graduate Teaching Award** \| 2020  
-<a href='https://chemistry.cornell.edu/grad-awards' target='_blank'>Teaching award</a> given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
+[Teaching award](https://chemistry.cornell.edu/grad-awards) given by the Cornell Section of the American Chemical Society in recognition of performance as a teaching assistant. (Formerly known as the Bayer-Covestro Teaching Award)  
 - **NYU Abu Dhabi Conference Travel Grant** \| 2018  
 Travel grant awarded to give a spotlight talk at the 2018 Meeting of the International Society for Bioluminescence and Chemiluminescence in Nantes, France.  
 - **ACS International Undergraduate Student Chapter Travel Grant** \| 2018  
@@ -135,22 +119,40 @@ Grant to complete research at the NSF-REU site at the University of Puerto Rico 
 <br />
 <br />
 
-# Publications and presentations
+# Publications
 
-Take a look at the research page for a full list of my [academic publications](/research.html#papers) and [conference presentations](/research.html#talks).  
+Visit the research page for abstracts, accolades, and demos of my [academic publications](/research.html#papers), [conference presentations](/research.html#talks), and a list of [working papers](/research.html#manuscripts).  
+
+
+10. You, Q; Ma, Y; Woltornist, RA; **Lui, NM**; Spivey, JA; Keresztes, I; Collum, DB “[Sodium Alkyl(trimethylsilyl)amides: Substituent- and Solvent-Dependent Solution Structures and Reactivities.](https://doi.org/10.1021/jacs.4c10836)s” *Journal of the American Chemical Society* **2024**, *146* (44), 30397.
+
+9. Gambrill, Y; Commins, P; Schramm, S; **Lui, NM**; AlNeyadi, SS; Naumov, P “[Natural Product Isolation of the Extract of Cleome rupicola Fruits Exhibiting Antioxidant Activity.](https://doi.org/10.1002/cbdv.202301382)” *Chemistry & Biodiversity* **2024**, e202301382. 
+
+8. **Lui, NM**; Collum, DB “[Sodiated Oppolzer Enolates: Solution Structures and Mechanisms of Alkylation.](https://doi.org/10.1039/D3QO01021J)” *Organic Chemistry Frontiers* **2023**, *10*, 4750.  
+
+7. **Lui, NM**; MacMillan, SN; Collum, DB “[Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and Origin of Stereoselectivity.](https://doi.org/10.1021/jacs.2c09341)” *Journal of the American Chemical Society* **2022**, *144* (51), 23379.  
+
+6. Ma, Y; **Lui, NM**; Keresztes, I; Woltornist, RA; Collum, DB “[Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.](https://doi.org/10.1021/acs.joc.2c01745)” *The Journal of Organic Chemistry* **2022**, *87* (21), 14223.  
+
+5. Al-Handawi, MB; Polavaram, S; Kurlevskaya, A; Commins, P; Schramm, S; Carrasco-López, C; **Lui, NM**; Solntsev, KM; Laptenok, SP; Navizet, I; Naumov, P “[Spectrochemistry of Firefly Bioluminescence.](https://doi.org/10.1021/acs.chemrev.1c01047)” *Chemical Reviews* **2022**, *122* (16), 13207.  
+
+4. Carrasco-López, C; **Lui, NM**; Schramm, S; Naumov, P “[The elusive relationship between structure and colour emission in beetle luciferases.](https://doi.org/10.1038/s41570-020-00238-1)” *Nature Reviews Chemistry* **2021**, *5*, 4.  
+
+3. Schramm, S; Karothu, DP; **Lui, NM**; Commins, P; Ahmed, E; Catalano, L; Li, L; Weston, J; Moriwaki, T; Solntsev, KM; Naumov, P “[Thermochemiluminescent Peroxide Crystals.](https://doi.org/10.1038/s41467-019-08816-8)” *Nature Communications* **2019**, *10*, 997.  
+
+2. **Lui, NM**; Schramm, S; Naumov, P “[pH-dependent fluorescence from firefly oxyluciferin in agarose thin films.](https://doi.org/10.1039/C8NJ05469J)” *New Journal of Chemistry* **2019**, *43*, 1122.  
+
+1. Carrasco-López, C; Ferreira, J; **Lui, NM**; Schramm, S; Berraud-Pache, R; Navizet, I; Panjikar, S; Naumov, P; Rabeh, W “[Beetle luciferases with naturally red- and blue-shifted emission.](https://doi.org/10.26508/lsa.201800072)” *Life Science Alliance* **2018**, *1*, e201800072.  
+{: reversed='reversed'}
 
 <br />
-<br />
 
-# Leadership
 
-- **Indianapolis Chair** • Lilly Postdoctoral Scientists \| June 2024 - Present
-- **Organizational Lead** • 2024 Lilly Postdoc Summit Planning Committee \| March 2024 - October 2024
-- **Senior Graduate Student** • The Collum Group at Cornell Chemistry \| June 2021 - July 2023  
-- **Project Team Lead** • Cornell College of Computing and Information Sciences \| August 2022 - January 2023  
-- **President** • ACS International Student Chapter at NYU Abu Dhabi \| August 2017 - May 2018  
-- **Financial Director and Founding Board Member** • Love Local Abu Dhabi, Abu Dhabi  \| July 2014 - May 2018  
-- **Class of 2018 Representative** • The 2010 Fund Committee at NYU Abu Dhabi \| September 2014 - June 2016
+# Teaching
+
+- **CHEM 7650** \| Advanced Physical Organic Chemistry and Reaction Mechanisms  
+- **CHEM 2510** \| Introduction to Experimental Organic Chemistry  
+- **CHEM 2070** \| General Chemistry I  
 
 <br />
 <br />
@@ -172,11 +174,8 @@ Take a look at the research page for a full list of my [academic publications](/
         <ul>
             <li><i class="fab fa-python"></i> Python</li>
             <li><i class="fab fa-java"></i> Java</li>
-            <li><i class="fas fa-terminal"></i> <code>bash</code></li>
             <li><i class="fas fa-code"></i> C++</li>
-            <li><i class="fab fa-linux"></i> Linux</li>
-            <li><i class="fas fa-code-branch"></i> Version control with <i class="fab fa-git-square"></i></li>
-            <!-- <li>$\LaTeX$</li> -->
+            <li><i class="fas fa-terminal"></i> <code>bash</code></li>
         </ul>
     </div>
 </div>
