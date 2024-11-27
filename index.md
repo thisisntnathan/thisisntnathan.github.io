@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nathan M. Lui, Ph.D. is a postdoctoral scientist at Eli Lilly and Company where he develops template-free methods of chemical reaction product predcition using large-scale machine learning. He sits in the global computational chemistry and cheminformatics group at in the discovery chemistry research and technology department of the Lilly Research Laboratories.  
+Nathan M. Lui, Ph.D. is a postdoctoral scientist at Eli Lilly and Company focusing primarily on developing deep learning methods for template-free chemical reaction product prediction using large-scale geometric machine learning. He sits on the global computational chemistry & chemiformatics team in the discovery chemistry research and technology organization of the Lilly Research Laboratories.
