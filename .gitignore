@@ -4,3 +4,4 @@ _site/
 *.gem
 .jekyll-cache
 .markdownlint.json
+.DS_Store
