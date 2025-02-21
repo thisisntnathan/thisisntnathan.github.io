@@ -18,6 +18,8 @@ nav-menu: true
         </header>
         <div class="row">
             <div class="12u 12u$(small)">
+                <b>Developing intelligent multi-agent systems to accelerate drug discovery</b>
+                <br />
                 <b>Transfer learning approaches for reaction product prediction in the low-data regime</b>
             </div>
         </div>
