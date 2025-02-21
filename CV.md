@@ -45,7 +45,10 @@ Take a look at my [research page](/research.html) for more!
 
 ### Eli Lilly and Company
 
-Postdoctoral Scientist, Exploratory Discovery AI \| 2023 - present  
+Advisor, AI Agents for Molecular Discovery \| 2025 - present
+**Developing next-generation autonomous agents for drug discovery**
+
+Postdoctoral Scientist, Exploratory Discovery AI \| 2023 - 2025  
 **Transfer learning approaches for reaction product prediction in the low-data regime**  
 
 ----
